@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure, Development, DigitalOcean, Work</title>
+      <link>http://localhost:1313/tags/Azure-Development-DigitalOcean-Work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Azure-Development-DigitalOcean-Work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/tags/Development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Azure, DigitalOcean, Hugo</title>
+      <link>http://localhost:1313/tags/Development-Azure-DigitalOcean-Hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Azure-DigitalOcean-Hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Azure, Micropost</title>
+      <link>http://localhost:1313/tags/Development-Azure-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Azure-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, DigitalOcean</title>
+      <link>http://localhost:1313/tags/Development-DigitalOcean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-DigitalOcean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, DigitalOcean, Eleventy</title>
+      <link>http://localhost:1313/tags/Development-DigitalOcean-Eleventy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-DigitalOcean-Eleventy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Eleventy, Ghost</title>
+      <link>http://localhost:1313/tags/Development-Eleventy-Ghost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Eleventy-Ghost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Eleventy, Ghost, DigitalOcean</title>
+      <link>http://localhost:1313/tags/Development-Eleventy-Ghost-DigitalOcean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Eleventy-Ghost-DigitalOcean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Eleventy, Micropost</title>
+      <link>http://localhost:1313/tags/Development-Eleventy-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Eleventy-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Ghost, Micropost</title>
+      <link>http://localhost:1313/tags/Development-Ghost-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Ghost-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Git</title>
+      <link>http://localhost:1313/tags/Development-Git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Hugo, Micropost</title>
+      <link>http://localhost:1313/tags/Development-Hugo-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Hugo-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Micropost</title>
+      <link>http://localhost:1313/tags/Development-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Python</title>
+      <link>http://localhost:1313/tags/Development-Python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Python, Micropost</title>
+      <link>http://localhost:1313/tags/Development-Python-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Python-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development, Wieting Theatre, Micropost</title>
+      <link>http://localhost:1313/tags/Development-Wieting-Theatre-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Development-Wieting-Theatre-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DigitalOcean, Micropost</title>
+      <link>http://localhost:1313/tags/DigitalOcean-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/DigitalOcean-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geocaching, Micropost, Vacation</title>
+      <link>http://localhost:1313/tags/Geocaching-micropost-Vacation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Geocaching-micropost-Vacation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geocaching, Vacation</title>
+      <link>http://localhost:1313/tags/Geocaching-Vacation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Geocaching-Vacation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geocaching, Vacation, Travel, Micropost</title>
+      <link>http://localhost:1313/tags/Geocaching-Vacation-Travel-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Geocaching-Vacation-Travel-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ghost, Eleventy, Home</title>
+      <link>http://localhost:1313/tags/Ghost-Eleventy-Home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Ghost-Eleventy-Home/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/tags/Home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Home/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home, Micropost</title>
+      <link>http://localhost:1313/tags/Home-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Home-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home, Weather</title>
+      <link>http://localhost:1313/tags/Home-Weather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Home-Weather/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo, Development, DigitalOcean</title>
+      <link>http://localhost:1313/tags/Hugo-Development-DigitalOcean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Hugo-Development-DigitalOcean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost</title>
+      <link>http://localhost:1313/tags/micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, 3D Printing</title>
+      <link>http://localhost:1313/tags/micropost-3D-Printing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-3D-Printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, 3D Printing, Geocaching</title>
+      <link>http://localhost:1313/tags/micropost-3D-Printing-Geocaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-3D-Printing-Geocaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Development</title>
+      <link>http://localhost:1313/tags/micropost-Development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Development, Azure, DigitalOcean, Hugo</title>
+      <link>http://localhost:1313/tags/micropost-Development-Azure-DigitalOcean-Hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Development-Azure-DigitalOcean-Hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Development, DigitalOcean, Work</title>
+      <link>http://localhost:1313/tags/micropost-Development-DigitalOcean-Work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Development-DigitalOcean-Work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Development, Eleventy</title>
+      <link>http://localhost:1313/tags/micropost-Development-Eleventy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Development-Eleventy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Development, Ghost, Geocaching, Azure, Streamlit</title>
+      <link>http://localhost:1313/tags/micropost-Development-Ghost-Geocaching-Azure-Streamlit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Development-Ghost-Geocaching-Azure-Streamlit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Development, Wieting Theatre</title>
+      <link>http://localhost:1313/tags/micropost-Development-Wieting-Theatre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Development-Wieting-Theatre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Geocaching, Recreation, Vacation</title>
+      <link>http://localhost:1313/tags/micropost-Geocaching-Recreation-Vacation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Geocaching-Recreation-Vacation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Geocaching, Vacation</title>
+      <link>http://localhost:1313/tags/micropost-Geocaching-Vacation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Geocaching-Vacation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Holiday, Family</title>
+      <link>http://localhost:1313/tags/micropost-Holiday-Family/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Holiday-Family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Home</title>
+      <link>http://localhost:1313/tags/micropost-Home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Home/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Home, 3D Printing</title>
+      <link>http://localhost:1313/tags/micropost-Home-3D-Printing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Home-3D-Printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Home, Health</title>
+      <link>http://localhost:1313/tags/micropost-Home-Health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Home-Health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Recreation</title>
+      <link>http://localhost:1313/tags/micropost-Recreation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Recreation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Streamlit, Development</title>
+      <link>http://localhost:1313/tags/micropost-Streamlit-Development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Streamlit-Development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Theatre</title>
+      <link>http://localhost:1313/tags/micropost-Theatre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Theatre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Theatre, Geocaching</title>
+      <link>http://localhost:1313/tags/micropost-Theatre-Geocaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Theatre-Geocaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Travel</title>
+      <link>http://localhost:1313/tags/micropost-Travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Vacation, Geocaching</title>
+      <link>http://localhost:1313/tags/micropost-Vacation-Geocaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Vacation-Geocaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Work</title>
+      <link>http://localhost:1313/tags/micropost-Work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micropost, Work, Development</title>
+      <link>http://localhost:1313/tags/micropost-Work-Development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/micropost-Work-Development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netlify, Eleventy, Azure, Development</title>
+      <link>http://localhost:1313/tags/Netlify-Eleventy-Azure-Development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Netlify-Eleventy-Azure-Development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organization</title>
+      <link>http://localhost:1313/tags/Organization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Organization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recreation, Micropost</title>
+      <link>http://localhost:1313/tags/Recreation-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Recreation-micropost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>StaticCMS, Development, Wieting Theatre</title>
+      <link>http://localhost:1313/tags/StaticCMS-Development-Wieting-Theatre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/StaticCMS-Development-Wieting-Theatre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streamlit, Development</title>
+      <link>http://localhost:1313/tags/Streamlit-Development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Streamlit-Development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weather, Micropost</title>
+      <link>http://localhost:1313/tags/Weather-micropost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/Weather-micropost/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micropost, Development, Eleventy on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/micropost-Development-Eleventy/</link>
+    <description>Recent content in Micropost, Development, Eleventy on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/micropost-Development-Eleventy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fixing-wieting-guild-pages</title>
+      <link>http://localhost:1313/post/fixing-wieting-guild-pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fixing-wieting-guild-pages/</guid>
+      <description>Just the other day I got an updated copy of the Wieting Theatre&amp;rsquo;s volunteer roster and assignment schedule. As I&amp;rsquo;m trying to post them to the theatre&amp;rsquo;s management website (it&amp;rsquo;s password protected) I keep having issues with npm and dependencies that won&amp;rsquo;t compile. The fix, thus far has included a local command stream like this:&#xA;cd wieting-guild-pages git pull code . npm run build npm run start --&amp;gt; failed npm update npm audit fix npm run build npm run start --&amp;gt; failed npm audit fix --force npm run build --&amp;gt; failed npm install axios npm run build --&amp;gt; failed npm update npm run build The last errors had this in common:</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organization on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/Organization/</link>
+    <description>Recent content in Organization on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/Organization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finale Workflow Documentation</title>
+      <link>http://localhost:1313/post/finale-workflow-documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/finale-workflow-documentation/</guid>
+      <description>Mackenzie, my daughter, and I created this post documenting my wife&amp;rsquo;s Finale workflow for scanning and editing music on her Mac. We did this for my wife to celebrate her birthday preserve her sanity. Well, it was worth a shot. The birthday idea seemed more romantic, but mental health comes first.&#xA;The document was created using a process we recently built and documented in Creating Better Documentation. In this instance of the process we tried to annotate in yellow screen capture elements that need attention, and used red annotation to indicate things that require input or action of some kind.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development, Eleventy, Ghost, DigitalOcean on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/Development-Eleventy-Ghost-DigitalOcean/</link>
+    <description>Recent content in Development, Eleventy, Ghost, DigitalOcean on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/Development-Eleventy-Ghost-DigitalOcean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Blog in Eleventy &#43; Ghost</title>
+      <link>http://localhost:1313/post/this-blog-in-eleventy-ghost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/this-blog-in-eleventy-ghost/</guid>
+      <description>This past weekend my daughter, Mackenzie, made the decision to move her portfolio page into a configuration that features Eleventy (11ty) on the frontend with content managed in Ghost on the backend. I like that combination very much so to help support her move, and learn a little something along the way, we&amp;rsquo;ve setup a new Ghost server in a DigitalOcean droplet, namely ghostonubuntu2204-s-1vcpu-1gb-intel-nyc1-01 , and I&amp;rsquo;ve decided to make the same move myself.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micropost, Work, Development on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/micropost-Work-Development/</link>
+    <description>Recent content in Micropost, Work, Development on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/micropost-Work-Development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Improving My Azure Blob Storage</title>
+      <link>http://localhost:1313/post/improving-my-azure-blob-storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/improving-my-azure-blob-storage/</guid>
+      <description>I use Azure Blob Storage quite a bit these days, at work and here at home. Recently a student I&amp;rsquo;ve been working with turned my attention to this post from Microsoft and this week I&amp;rsquo;m going to take a crack at putting it to use, perhaps in association with this blog.&#xA;-/-/-/&#xA;location: Toledo, Iowa</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StaticCMS, Development, Wieting Theatre on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/StaticCMS-Development-Wieting-Theatre/</link>
+    <description>Recent content in StaticCMS, Development, Wieting Theatre on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/StaticCMS-Development-Wieting-Theatre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spinning Up StaticCMS</title>
+      <link>http://localhost:1313/post/spinning-up-staticcms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/spinning-up-staticcms/</guid>
+      <description>Today is Saturday, January 13, 2024, and I won&amp;rsquo;t be able to watch the KC Chief&amp;rsquo;s wildcard playoff game vs. the Miami Dolphins tonight because it is streaming ONLY on Peacock, and I refuse to pay them for the &amp;ldquo;privilege&amp;rdquo; to watch it live. So, I&amp;rsquo;m going to do something productive instead. Let&amp;rsquo;s see if I can spin up an instance of StaticCMS to provide an OPEN CMS for the content editor(s) behind the Wieting Theatre website.</description>
+    </item>
+  </channel>
+</rss>

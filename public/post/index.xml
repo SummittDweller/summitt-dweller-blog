@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2023 03:54:55 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About This Site</title>
+      <link>http://localhost:1313/post/about/</link>
+      <pubDate>Sun, 19 Mar 2023 03:54:55 +0000</pubDate>
+      <guid>http://localhost:1313/post/about/</guid>
+      <description>Summitt Dweller&amp;rsquo;s Blog is an independent publication launched in March 2023 by Mark McFate, aka &amp;ldquo;Summitt Dweller&amp;rdquo;. It replaces an old Hugo site which replaced an old Drupal site many years ago.&#xA;Eleventy (11ty) + Ghost This past weekend my daughter, Mackenzie, made the decision to move her portfolio page into a configuration that features Eleventy (11ty) on the frontend with content managed in Ghost on the backend. I like that combination very much so to help support her move, and learn a little something along the way, we&amp;rsquo;ve setup a new Ghost server in a DigitalOcean droplet, namely ghostonubuntu2204-s-1vcpu-1gb-intel-nyc1-01 , and I&amp;rsquo;ve decided to make the same move myself.</description>
+    </item>
+    <item>
+      <title>→ Home Automation</title>
+      <link>http://localhost:1313/post/home-automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/home-automation/</guid>
+      <description>During the COVID-19 pandemic I decided, while working endlessly from my home office, to resurect the hanging bird feeder outside my office window. I like having the birds visit, but I’ve noticed one problem… starlings! They are cranky, bully bastards and chase all the welcome visitors away, if I let them. Well, I don’t intend to let them anymore. 😁 I won’t go into details here but my remedy involves removing the screen from my office window, and occasionally opening the window itself.</description>
+    </item>
+    <item>
+      <title>→ Testing My ExternalURL Feature</title>
+      <link>http://localhost:1313/post/testing-my-externalurl-feature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/testing-my-externalurl-feature/</guid>
+      <description>Really just testing out this blog’s externalurl feature here. Click on the --&amp;gt; at the head of this post to see my “professional” post about building Grocy in Docker and Docksal.</description>
+    </item>
+    <item>
+      <title>21pilots.html</title>
+      <link>http://localhost:1313/post/21pilots-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/21pilots-html/</guid>
+      <description>T-Mobile Arena downtown Kansas City for Twenty-one Pilots. And I am probably not the oldest person here after all. -/-/-/&#xA;location: Kansas City, MO</description>
+    </item>
+    <item>
+      <title>3d-printer-z-adjustment</title>
+      <link>http://localhost:1313/post/3d-printer-z-adjustment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/3d-printer-z-adjustment/</guid>
+      <description>Not sure yet if it will solve my problems, but I had the same issue as posted in SOLVED E3V2 Nozzle hitting bed during CR Touch ABL so I applied the washer &amp;ldquo;fix&amp;rdquo;. We shall see.</description>
+    </item>
+    <item>
+      <title>3Dprinter-probe-z-offset</title>
+      <link>http://localhost:1313/post/3dprinter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/3dprinter/</guid>
+      <description>So, the probe Z-offset on my printer seems to be wonky. I noticed during bed leveling that my print head is contacting the bed of my printer just BEFORE the probe is triggered. That&amp;rsquo;s not good! I&amp;rsquo;m going to have a look at BLTouch / CR Touch Z Offset (Z Probe Offset) Calibration in Marlin Firmware to see if I can correct that posthaste.</description>
+    </item>
+    <item>
+      <title>5-Inch HDMI Raspberry Pi Touch Screen</title>
+      <link>http://localhost:1313/post/5-inch-hdmi-raspberry-pi-touch-screen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/5-inch-hdmi-raspberry-pi-touch-screen/</guid>
+      <description>A couple of years have now passed since I purchased an Elecrow 5&amp;rsquo; HDMI Touchscreen display for the Raspberry Pi and put it to use. I even 3D printed a very nice case for it. So, there’s a bit of configuration code on the SD card that can be edited to determine if the 5&amp;rsquo; screen is active, or if the RPI’s output is directed to its HDMI output port. Well, in the last 2 years I forgot what to edit and what changes to make.</description>
+    </item>
+    <item>
+      <title>A Pagefind Problem?</title>
+      <link>http://localhost:1313/post/a-pagefind-problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/a-pagefind-problem/</guid>
+      <description>Not Just a Hugo Issue Take note of the question mark at the end of the title, otherwise it could be somewhat misleading. This is not really a problem with Hugo, but one with cloud deployment of Hugo static apps, particularly as an Azure Static Web App.&#xA;The Nutshell As you may know from post 143, I have successfully installed and configured Pagefind in Rootstalk, but thus far it only works locally.</description>
+    </item>
+    <item>
+      <title>A Simple Sign-up Form</title>
+      <link>http://localhost:1313/post/a-simple-sign-up-form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/a-simple-sign-up-form/</guid>
+      <description>For 2021 I’ve signed on to be a member of the steering committee for Toledo’s 2021 Community Visioning (CV) project coordinated by Tree’s Forever and Iowa’s Living Roadways, Iowa State University Extension and Outreach, and other partners. Tama is also a Community Visioning participant in 2021.&#xA;A Simple E-Mail Sign-Up I’m only posting this as a test of what I think might be a very simple sign-up form using email. What you see below is just a test, so please don’t expect any invitation from this!</description>
+    </item>
+    <item>
+      <title>a-close-call-indeed</title>
+      <link>http://localhost:1313/post/a-close-call-indeed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/a-close-call-indeed/</guid>
+      <description>Driving home from a few days at Univ. of South Dakota in Vermillion last evening and stopped at Justin&amp;rsquo;s house in M-town to meet his parents and grandmother, plus Deb &amp;amp; Doug. We left there about 8:30 or so and I took the old Lincoln Highway into town to avoid deer along the road on the shorter rural route.&#xA;We nearly got hit by an impaired driver (?) when turning on to Center Street just south of the Hy-Vee / Taco John&amp;rsquo;s intersection.</description>
+    </item>
+    <item>
+      <title>About This Site</title>
+      <link>http://localhost:1313/post/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/about/</guid>
+      <description>Summitt Dweller&amp;rsquo;s Blog is an independent publication launched in March 2023 by Mark McFate, aka &amp;ldquo;Summitt Dweller&amp;rdquo;. It replaces an old Hugo site which replaced an old Drupal site many years ago.&#xA;Eleventy (11ty) + Ghost This past weekend my daughter, Mackenzie, made the decision to move her portfolio page into a configuration that features Eleventy (11ty) on the frontend with content managed in Ghost on the backend. I like that combination very much so to help support her move, and learn a little something along the way, we&amp;rsquo;ve setup a new Ghost server in a DigitalOcean droplet, namely ghostonubuntu2204-s-1vcpu-1gb-intel-nyc1-01 , and I&amp;rsquo;ve decided to make the same move myself.</description>
+    </item>
+    <item>
+      <title>Adding &#39;Remote Atom&#39; to My DigitalOcean Server</title>
+      <link>http://localhost:1313/post/adding-remote-atom-to-my-digitalocean-server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/adding-remote-atom-to-my-digitalocean-server/</guid>
+      <description>Last evening and early this morning I completed the addition of a new (to me) package to Atom on my Mac Mini. The package is Remote Atom and I found the configuration to be a little confusing, but in the end it was worth the work.&#xA;Use The addition and configuration of this package allows me to open an SSH terminal/session from my Mac Mini to my summitt-dweller-DO-docker droplet and, with Atom open locally on my Mac I can issue a command like</description>
+    </item>
+    <item>
+      <title>adding-a-ghost-micropost-collection</title>
+      <link>http://localhost:1313/post/adding-a-ghost-micropost-collection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/adding-a-ghost-micropost-collection/</guid>
+      <description>This morning&amp;rsquo;s Ghost/11ty adventure will hopefully find me adding a new collection to both ends of this blog. See Building content collections.&#xA;Note: Using an internal tag, #micropost, for this did NOT work, at least it did not change the slug as expected. Using micropost does work!&#xA;-/-/-/&#xA;type: micropost&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>adding-fontawesome-to-wieting-site.html</title>
+      <link>http://localhost:1313/post/adding-fontawesome-to-wieting-site-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/adding-fontawesome-to-wieting-site-html/</guid>
+      <description>Applied Inline FontAwesome SVGs in Hugo to the Hugo theme for the Wieting web site.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>another-ms-soccer-in-the-books</title>
+      <link>http://localhost:1313/post/another-ms-soccer-in-the-books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/another-ms-soccer-in-the-books/</guid>
+      <description>Completed my third soccer officiating assignment tonight&amp;hellip; STC middle school girls and boys doubleheader, plus two B-games, vs. Williamsburg. Another 2.5 hours total play, but again, not too bad. I still have so much to learn!</description>
+    </item>
+    <item>
+      <title>applied-BioAdvanced-Concentrate-Season-Long-Weed-Killer</title>
+      <link>http://localhost:1313/post/applied-bioadvanced-concentrate-season-long-weed-killer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/applied-bioadvanced-concentrate-season-long-weed-killer/</guid>
+      <description>Today I applied one bottle (29 oz.) of BioAdvanced™ Concentrate Season Long Weed Killer to my entire lawn in 9 applications using my Ryobi 1-gallon chemical sprayer. Mix was 3.5oz per tank with each application covering about 500 square feet.&#xA;We shall see how it performs. See https://bioadvanced.com/season-long-weed-control-for-lawns.html for more details.&#xA;-/-/-/&#xA;mixture: 704050A&#xA;MenardsSKU: 2634119&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Atom No More?</title>
+      <link>http://localhost:1313/post/atom-no-more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/atom-no-more/</guid>
+      <description>Yesterday one of my library colleagues at Grinnell College posted an announcement that Atom would be retired (sunset) in December 2022. Ouch, I have a lot of workflows that depend on Atom!&#xA;So, today part of my mission is to begin the process of migrating workflows, both work-related and personal/at-home, from Atom to its most logical replacement, Visual Studio Code or VS Code as it’s largely known in the development community.</description>
+    </item>
+    <item>
+      <title>August 2022 - Geocaching&#39;s 20th Anniversary Celebration Event</title>
+      <link>http://localhost:1313/post/august-2022---geocachings-20th-anniversary-celebration-event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/august-2022---geocachings-20th-anniversary-celebration-event/</guid>
+      <description>The following is a chronological consolidation of posts and microposts from August 6 through August 25, 2022.&#xA;Westbound to Seattle - Day 1 Posted on 2022/08/07 4:57 PM from Toledo, IA Westbound to Seattle - Day 2 Posted on 2022/08/07 4:58 PM from Toledo, IA Westbound to Seattle - Day 3 Posted on 2022/08/07 4:58 PM from Toledo, IA Eastbound from Seattle - Day 1 Posted on 2022/08/07 9:13 PM from Toledo, IA Eastbound from Seattle - Day 2 Posted on 2022/08/08 1:39 PM from Toledo, IA Eastbound from Seattle - Day 3 Posted on 2022/08/08 2:44 PM from Toledo, IA Waiting for my ride to Johnston.</description>
+    </item>
+    <item>
+      <title>azure-extensions-for-vscode.html</title>
+      <link>http://localhost:1313/post/azure-extensions-for-vscode-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/azure-extensions-for-vscode-html/</guid>
+      <description>Web Nirvana? It dawned on me this morning that both VSCode and Azure are Microsoft things. So, there should be some handy Azure extensions for VSCode, right? Yes, yes indeed there are! I&amp;rsquo;m installing them now!</description>
+    </item>
+    <item>
+      <title>barb-sprayed-the-snow-on-the-mountain</title>
+      <link>http://localhost:1313/post/barb-sprayed-the-snow-on-the-mountain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/barb-sprayed-the-snow-on-the-mountain/</guid>
+      <description>Barb came in this afternoon and sprayed broadleaf control on the out-of-control &amp;ldquo;Snow on the Mountain&amp;rdquo; around the house.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>bbbike.html</title>
+      <link>http://localhost:1313/post/bbbike-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/bbbike-html/</guid>
+      <description>Need to remember this address: https://garmin3.bbbike.org/</description>
+    </item>
+    <item>
+      <title>Building My First Steamlit App</title>
+      <link>http://localhost:1313/post/building-my-first-steamlit-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/building-my-first-steamlit-app/</guid>
+      <description>I&amp;rsquo;ve been wanting to give Streamlit a try for some time now. Recently, I found Streamlit DataScience Apps, a GitHub repo full of Streamlit apps, written by Jcharis. In particular, I thought I would take the Job_Search_App_with_Streamlit_Forms_n_GithubAPI code for a spin.&#xA;First step, I created a new ~/GitHub/ code directory on my Mac; I named my directory ~/GitHub/job-search-app-with-streamlit-forms. The plan was to work in that directory inside VSCode with all the project requirements housed in a Python virtual environment (.</description>
+    </item>
+    <item>
+      <title>Built by Webhook &#43; Password Protection</title>
+      <link>http://localhost:1313/post/build-per-webhook-password-protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/build-per-webhook-password-protection/</guid>
+      <description>Today I used the resources you see in the OneTab shown above to build a trigger from a password-protected page in this blog to a DigitalOcean webhook. The purpose of the webhook is to rebuild and subsequently deploy the entire blog.&#xA;I thought about using a traditional Ghost action, like site.changed, to do this but I frequently like to post 3 or more blog updates in rapid succession, and I didn&amp;rsquo;t want Ghost triggering back-to-back-to-back rebuilds all of the time.</description>
+    </item>
+    <item>
+      <title>Buzzard-billys</title>
+      <link>http://localhost:1313/post/buzzard-billys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/buzzard-billys/</guid>
+      <description>Trying breakfast at Buzzard Billy&amp;rsquo;s before &amp;ldquo;Ain&amp;rsquo;t Too Proud&amp;rdquo; this afternoon.&#xA;-/-/-/&#xA;location: Des Moines, IA</description>
+    </item>
+    <item>
+      <title>camping-at-fishermans-corner</title>
+      <link>http://localhost:1313/post/camping-at-fishermans-corner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/camping-at-fishermans-corner/</guid>
+      <description>Arrived at Fisherman&amp;rsquo;s Corner campground in Hampton, IL, on Thursday evening and went on my first Iowa.LandShark geo-bike ride yesterday. Somewhere between 18-22 miles of geocaching along the Mississippi River from Moline to Davenport and Rock Island. Open my track log to see where Gossamar and I went.&#xA;-/-/-/&#xA;location: Hampton, IL</description>
+    </item>
+    <item>
+      <title>CentOS 7 Remote Using VNC</title>
+      <link>http://localhost:1313/post/centos-7-remote-using-vnc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/centos-7-remote-using-vnc/</guid>
+      <description>This past weekend I managed to get a VNC server running on my centos7 node, where I run Paperless. The build instructions came from https://www.howtoforge.com/vnc-server-installation-on-centos-7. The node is available at 192.168.1.22:5901.</description>
+    </item>
+    <item>
+      <title>cold-morning-clear-lake</title>
+      <link>http://localhost:1313/post/cold-morning-clear-lake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/cold-morning-clear-lake/</guid>
+      <description>Camping at Clear Lake State Park and I have to admit it&amp;rsquo;s cold. My phone says the temp is 37°F and my little space heater appears to be broken. It gets warm but the fan doesn&amp;rsquo;t work so that&amp;rsquo;s all. Heading to the shower, then breakfast at TJs, then to Menards for a new space heater!&#xA;-/-/-/&#xA;location: Clear Lake State Park</description>
+    </item>
+    <item>
+      <title>Commencment-2023</title>
+      <link>http://localhost:1313/post/commencment-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/commencment-2023/</guid>
+      <description>Beautiful day for commencment 2023 in Grinnell. I just wish Alina were here. 8^(&#xA;-/-/-/&#xA;location: Grinnell College</description>
+    </item>
+    <item>
+      <title>cyclone-1965-completed</title>
+      <link>http://localhost:1313/post/cyclone-1965-completed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/cyclone-1965-completed/</guid>
+      <description>This morning I was dealing with the 1965 edition of the Grinnell College yearbook, Cyclone 1965, in Digital.Grinnell. That&amp;rsquo;s a monster of a yearbook, 278 pages and a .pdf that&amp;rsquo;s almost 1.4 GB in size.&#xA;In order to get the .pdf to upload I tried a number of tricks, the only one that worked was a modification of Book Ingest in Digital.Grinnell The key command was&amp;hellip;&#xA;docker cp &amp;quot;/mnt/storage/Yearbooks/Cyclone 1965/lib_1965cycloneyearbook_0002.pdf&amp;quot; isle-apache-dg:/var/www/sites/default/files/book.</description>
+    </item>
+    <item>
+      <title>Debugging This Blog with VSCode</title>
+      <link>http://localhost:1313/post/debugging-this-blog-with-_vscode_/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/debugging-this-blog-with-_vscode_/</guid>
+      <description>I&amp;rsquo;m making some significant changes to the code behind this blog today. Specifically, I&amp;rsquo;m going to move my micropost &amp;ldquo;front matter&amp;rdquo; from the post.excerpt or post.custom_excerpt field to the &amp;ldquo;body&amp;rdquo; of the post where it might look like this example (taken from this very post):&#xA;-+-+-+ location: Toledo, IA price: $50.00 note: This is just some sample &amp;quot;front matter&amp;quot;. My parser removed the &amp;quot;split&amp;quot; characters from the delimiter you see here.</description>
+    </item>
+    <item>
+      <title>Derecho Follow-Up - Saturday, August 22</title>
+      <link>http://localhost:1313/post/derecho-follow-up---saturday--august-22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/derecho-follow-up---saturday--august-22/</guid>
+      <description>Almost every day for the past few months I have walked with my “scurry” around Cherry Lake in Tama. We generally walk in the morning before the heat, humidity, and mosquitoes get too bad. We finally got power back on Thursday evening, August 20, so on Friday morning, August 21, 2020, we walked for the first time since the derecho of August 10. It was actually more like an obstacle course than our usual stroll, but we still managed to collect quite a bit of trash, as usual.</description>
+    </item>
+    <item>
+      <title>dick.html</title>
+      <link>http://localhost:1313/post/dick-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/dick-html/</guid>
+      <description>Planning a lunch stop in Grand Island with Heartland Cacher and then on home to Iowa so Reviewer Smith can get back to Illinois this evening. -/-/-/&#xA;location: North Platte, NE</description>
+    </item>
+    <item>
+      <title>dns-and-azure-email-changes.html</title>
+      <link>http://localhost:1313/post/dns-and-azure-email-changes-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/dns-and-azure-email-changes-html/</guid>
+      <description>Last evening I successfully completed a move of ItalianoWoods.com from a defunct presence on DigitalOcean to a landing site and working email via Azure and Azure DNS. Details can be found in a few places, including:&#xA;https://github.com/SummittDweller/how-MY-web-works/blob/main/docs/05-italianowoods.com.md-https://github.com/SummittDweller/how-MY-web-works/blob/main/docs/101-DigitalOcean.md https://github.com/SummittDweller/italiano-woods-11ty-landing-page -/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>early-start-fixed-small-micropost-display</title>
+      <link>http://localhost:1313/post/early-start-fixed-small-micropost-display/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/early-start-fixed-small-micropost-display/</guid>
+      <description>I got an early start this morning (awake at 5:30 so what the heck) and had to restart my Grinnell College MacBook (which is still rebooting!) so I took a few minutes to debug the micropost content in this blog. Turns out I had a regex expression that was a little too aggressive. Removed that (it wasn&amp;rsquo;t entirely necessary) and all is well now.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Eastbound from Seattle - Day 1</title>
+      <link>http://localhost:1313/post/eastbound-from-seattle---day-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/eastbound-from-seattle---day-1/</guid>
+      <description>Day 1 - Seattle, WA to Lakeview, OR This is our planned route for Day 1 (eastbound) using a speed factor of 1.0 (traveling at the speed limit). Fuel cost is based on 40 mpg and $4.00 per gallon averages. Fuel stops typically have a 15-minute duration and rest areas allow 5-minutes each.&#xA;A list of possible geocache targets for the entire route can be found at https://www.geocaching.com/play/map/lists/BMBBMD6.</description>
+    </item>
+    <item>
+      <title>Eastbound from Seattle - Day 2</title>
+      <link>http://localhost:1313/post/eastbound-from-seattle---day-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/eastbound-from-seattle---day-2/</guid>
+      <description>Day 3 - Lakeview, OR to Laramie, WY This is our planned route for Day 2 (eastbound) using a speed factor of 1.0 (traveling at the speed limit). Fuel cost is based on 40 mpg and $4.00 per gallon averages. Fuel stops typically have a 15-minute duration and rest areas allow 5-minutes each.&#xA;A list of possible geocache targets for the entire route can be found at https://www.geocaching.com/play/map/lists/BMBBMD6.</description>
+    </item>
+    <item>
+      <title>Easter Nap Time</title>
+      <link>http://localhost:1313/post/easter-nap-time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/easter-nap-time/</guid>
+      <description>Time for an Easter Sunday post-feast nap! Nice dinner here with me, Chris, Mackenzie, Morgan, Justin, Leonard, Barb, Deb, Doug, Mason and Michael. -/-/-/ location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>elementary-school-weed-control</title>
+      <link>http://localhost:1313/post/elementary-school-weed-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/elementary-school-weed-control/</guid>
+      <description>Went to the elementary early this evening and sprayed Weed-B-Gone around the bench and area. I hope it knocks the remaining weeds there back. There was no wind and no rain thus far, so I hope it works.&#xA;-/-/-/&#xA;location: Tama, Iowa</description>
+    </item>
+    <item>
+      <title>Engaging `s3cmd` to Download and Resize Images from DO Spaces</title>
+      <link>http://localhost:1313/post/engaging-s3cmd-to-download-and-resize-images-from-do-spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/engaging-s3cmd-to-download-and-resize-images-from-do-spaces/</guid>
+      <description>Earlier in this blog there&amp;rsquo;s a micropost that lays out the problem at hand. In a nutshell, most of the photos I saved in DigitalOcean Spaces are too big to be effective in this blog. They suck up lots of time and bandwidth every time this blog gets rebuilt, and then they are rendered at a fraction of their original size. This is exceptionall wasteful and unnecessary.&#xA;So, my task this morning is to install, configure, and engage the s3cmd tools to help get this done.</description>
+    </item>
+    <item>
+      <title>fathers-and-sons</title>
+      <link>http://localhost:1313/post/fathers-and-sons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fathers-and-sons/</guid>
+      <description>Traveled to Iowa City to see Luis A. perform in a production of &amp;ldquo;Fathers and Sons&amp;rdquo; at the University of Iowa, part of the annual New Plays Festival there. Found a geocache outside the theatre after the show.&#xA;-/-/-/&#xA;location: Iowa City, Iowa</description>
+    </item>
+    <item>
+      <title>filing-2022-income-taxes</title>
+      <link>http://localhost:1313/post/filing-2022-income-taxes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/filing-2022-income-taxes/</guid>
+      <description>Tonight is the night we file our 2022 income taxes. Got nice little refunds from both Federal and Iowa, but all of my Fed refund is going toward first quarter estimated payments for 2023. 😕</description>
+    </item>
+    <item>
+      <title>Finale Workflow Documentation</title>
+      <link>http://localhost:1313/post/finale-workflow-documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/finale-workflow-documentation/</guid>
+      <description>Mackenzie, my daughter, and I created this post documenting my wife&amp;rsquo;s Finale workflow for scanning and editing music on her Mac. We did this for my wife to celebrate her birthday preserve her sanity. Well, it was worth a shot. The birthday idea seemed more romantic, but mental health comes first.&#xA;The document was created using a process we recently built and documented in Creating Better Documentation. In this instance of the process we tried to annotate in yellow screen capture elements that need attention, and used red annotation to indicate things that require input or action of some kind.</description>
+    </item>
+    <item>
+      <title>fire-alarm-2-am</title>
+      <link>http://localhost:1313/post/fire-alarm-2-am/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fire-alarm-2-am/</guid>
+      <description>Do we get extra IHG (Holiday Inn) bonus points for living through the 2 AM false fire alarm last night? NOT FUN. Hope I can drive home this afternoon without falling asleep.&#xA;-/-/-/&#xA;location: Vermillion, SD</description>
+    </item>
+    <item>
+      <title>First Dose of Wegovy</title>
+      <link>http://localhost:1313/post/first-dose-of-wegovy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/first-dose-of-wegovy/</guid>
+      <description>Got my first 0.25 dose of Wegovy started (finally) this evening at 8 PM. Not difficult or painful at all. Injection site was in my right leg, upper thigh.</description>
+    </item>
+    <item>
+      <title>first-matomo-update</title>
+      <link>http://localhost:1313/post/first-matomo-update/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/first-matomo-update/</guid>
+      <description>Been prompted to do this for a couple of weeks so I finally took-the-plunge. https://analytics.summittservices.com/index.php?module=CoreUpdater&amp;amp;action=newVersionAvailable.&#xA;Wow, that was way too easy. I wonder if it really worked?&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>first-varsity-soccer-officiating</title>
+      <link>http://localhost:1313/post/first-varsity-soccer-officiating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/first-varsity-soccer-officiating/</guid>
+      <description>My knees and back are definitely feeling better than 2 weeks ago. Tonight I was AR2 for a varsity women&amp;rsquo;s match with Independence at STC. Final score was 11-2 on a very windy night, and it showed. The crew of TJ and Dustin did a great job and I feel like I learned a lot from them tonight. Thank you, gentlemen.</description>
+    </item>
+    <item>
+      <title>fixed-missing-individual-microposts</title>
+      <link>http://localhost:1313/post/fixed-missing-individual-microposts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fixed-missing-individual-microposts/</guid>
+      <description>Ok, I now have the missing individual micropost issue resolved. The fix required introducing a microposts/microposts.njk template patterned after posts/posts.njk, and linking that new template to a new layouts/micropost.njk template.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Fixing a Broken GitHub Repo</title>
+      <link>http://localhost:1313/post/fixing-a-broken-github-repo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fixing-a-broken-github-repo/</guid>
+      <description>Don&amp;rsquo;t Push Enormous Files to GitHub! Pay close attention to the statement above! A couple of days ago I was working on content for Tama-Toledo Community Visioning and I added a large socialmedia.zip file to the source repo, and then very stupidly pushed it to GitHub and the repo&amp;rsquo;s main branch. Naturally, the push didn&amp;rsquo;t finish so I removed the file and pushed a new commit to &amp;ldquo;remove it permanently&amp;rdquo;. Well, that ain&amp;rsquo;t how git works!</description>
+    </item>
+    <item>
+      <title>fixing-wieting-guild-pages</title>
+      <link>http://localhost:1313/post/fixing-wieting-guild-pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fixing-wieting-guild-pages/</guid>
+      <description>Just the other day I got an updated copy of the Wieting Theatre&amp;rsquo;s volunteer roster and assignment schedule. As I&amp;rsquo;m trying to post them to the theatre&amp;rsquo;s management website (it&amp;rsquo;s password protected) I keep having issues with npm and dependencies that won&amp;rsquo;t compile. The fix, thus far has included a local command stream like this:&#xA;cd wieting-guild-pages git pull code . npm run build npm run start --&amp;gt; failed npm update npm audit fix npm run build npm run start --&amp;gt; failed npm audit fix --force npm run build --&amp;gt; failed npm install axios npm run build --&amp;gt; failed npm update npm run build The last errors had this in common:</description>
+    </item>
+    <item>
+      <title>Gating My Content</title>
+      <link>http://localhost:1313/post/gating-my-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/gating-my-content/</guid>
+      <description>Gating Content in JAMstack Sites This section&amp;rsquo;s title was borrowed from a Stackbit article with the same title, Gating Content in JAMstack Sites. Working through that article to password protect some of the content at https://Wieting.TamaToledo.com is my tech pursit today.&#xA;Nope, Not on Netlify Last evening I took a shot at implementing the Netlify Identity tricks from the aforementioned article, but could not easily get it to work. The problem, I think, is that the https://Wieting.</description>
+    </item>
+    <item>
+      <title>ghost-this-weekend.html</title>
+      <link>http://localhost:1313/post/ghost-this-weekend-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ghost-this-weekend-html/</guid>
+      <description>Last weekend Mackenzie and I created a new Matomo analytics server on a DigitalOcean droplet w/ 2G of RAM. This weekend we created a new headless Ghost CMS droplet to support her portfolio site, and more.This evening I&amp;rsquo;m taking steps to begin rewriting this blog as a Ghost + 11ty reincarnation of what you see here now. The story of the underlying Ghost development and maintenance is told in Ghost Notes and its admin dashboard is available at https://ghost.</description>
+    </item>
+    <item>
+      <title>gotta-love-hugo.html</title>
+      <link>http://localhost:1313/post/gotta-love-hugo-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/gotta-love-hugo-html/</guid>
+      <description>Ya&amp;rsquo; gotta love Hugo! I just completed my first Jekyll-to-Hugo conversion, and made it a Hugo module. It&amp;rsquo;s taken me a couple of years to realize the power of Hugo modules, and I have to say it&amp;rsquo;s AWESOME, and perfectly implemented.The process of conversion briefly is documented in the README.md file at SummittDweller/hugo-timeline, and the first use of it as a module appears elsewhere in this blog at My Hugo Timeline, A New Hugo Module.</description>
+    </item>
+    <item>
+      <title>greetings-from-vermillion</title>
+      <link>http://localhost:1313/post/greetings-from-vermillion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/greetings-from-vermillion/</guid>
+      <description>Arrived in Vermillion, South Dakota, last evening about 6:30 PM and went straight to dinner at the &amp;ldquo;Old Lumber Company&amp;rdquo; downtown. Checked in to our hotel adjacent to the Univ. of South Dakota campus at about 7:15 PM and went to find the music department building (the fine arts center) where Christine will be taking classes for the rest of the week.&#xA;While she&amp;rsquo;s in class I&amp;rsquo;ll be working from my hotel room here, or maybe from the USD library.</description>
+    </item>
+    <item>
+      <title>hiding-microposts-breaks-pagination</title>
+      <link>http://localhost:1313/post/hiding-micrposts-breaks-pagination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/hiding-micrposts-breaks-pagination/</guid>
+      <description>So, since I could not get back to sleep this morning I started looking at this blog and wondering why my home page pagination isn&amp;rsquo;t right? After a little sleuthing I found that my custom logic to &amp;ldquo;hide all microposts from the home page&amp;rdquo; is working just as one might expect, except that this screws up the number of visible posts per page. Hmmm, this needs some work. Guess I need to legitimately funnel microposts into an entirely separate collection!</description>
+    </item>
+    <item>
+      <title>Hot Spring Spa is Gone</title>
+      <link>http://localhost:1313/post/hot-spring-spa-is-gone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/hot-spring-spa-is-gone/</guid>
+      <description>My old Hot Spring spa is gone! Listed it at about noon and by 4 PM I had 15 interested parties, most of them very serious. It went to a young couple who came very well prepared to haul it away&amp;hellip; flatbed truck with a lift, and an extra set of muscles. It departed shortly after 8 PM. Well done!&#xA;-/-/-/ location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>How I Added a Collection to This Blog</title>
+      <link>http://localhost:1313/post/how-i-added-a-collection-to-this-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/how-i-added-a-collection-to-this-blog/</guid>
+      <description>What follows is an excerpt taken directly from this project&amp;rsquo;s README.md file.&#xA;Adding a &amp;lsquo;micropost&amp;rsquo; Collection I&amp;rsquo;m following the guidance at Building content collections to turn my new micropost tag into a new Ghost collection. I&amp;rsquo;ve downloaded the routes.yml file from my Ghost installation as suggested in the guidance, and it&amp;rsquo;s now part of this project with initial contents of:&#xA;routes: collections: /micropost/: permalink: /micropost/{slug}/ template: index filter: tag:micropost /: permalink: /{slug}/ template: index filter: tag:-micropost taxonomies: tag: /tag/{slug}/ author: /author/{slug}/ This change allowed me to swap this first line of template logic for the second:</description>
+    </item>
+    <item>
+      <title>How MY Web Works</title>
+      <link>http://localhost:1313/post/how-my-web-works-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/how-my-web-works-2/</guid>
+      <description>I’ve been building websites and apps for a lot of years now, and over time I’ve used a plethora of different frameworks and tools to do so. I’ve also involved a number of registrars, DNS strategies, source code repositories, and web hosts… frankly too many to remember or even count.&#xA;In my old age I’d love to have a dynamic document, or two, where I can track things like this:</description>
+    </item>
+    <item>
+      <title>how-to-adjust-a-bike-helmet.html</title>
+      <link>http://localhost:1313/post/how-to-adjust-a-bike-helmet-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/how-to-adjust-a-bike-helmet-html/</guid>
+      <description>Found Video - How to Adjust a Bicycle 🚴🏽 Helmet a short time ago. 🙂&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>hugo-mod-local.html</title>
+      <link>http://localhost:1313/post/hugo-mod-local-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/hugo-mod-local-html/</guid>
+      <description>Today I discovered a slick trick for local development of my first Hugo Module. The guidance I used was found in Working with Hugo Module Locally and it was spot-on! In my case the key was the additon of one line, two if you include the comment, to my project&amp;rsquo;s config.yml file: // Innocent line below! replace github.com/SummittDweller/hugo-timeline =&amp;gt; /Users/mark/GitHub/hugo-timeline&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>implementing-pagefind-here</title>
+      <link>http://localhost:1313/post/implementing-pagefind-here/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/implementing-pagefind-here/</guid>
+      <description>Last evening I followed Using PageFind with Eleventy for Search to try and implement robust search capability in this blog. I&amp;rsquo;m working in a new pagefind branch of the code to pull this off.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Improving My Azure Blob Storage</title>
+      <link>http://localhost:1313/post/improving-my-azure-blob-storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/improving-my-azure-blob-storage/</guid>
+      <description>I use Azure Blob Storage quite a bit these days, at work and here at home. Recently a student I&amp;rsquo;ve been working with turned my attention to this post from Microsoft and this week I&amp;rsquo;m going to take a crack at putting it to use, perhaps in association with this blog.&#xA;-/-/-/&#xA;location: Toledo, Iowa</description>
+    </item>
+    <item>
+      <title>Iowa&#39;s 2020 Hurricane</title>
+      <link>http://localhost:1313/post/iowas-2020-hurricane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/iowas-2020-hurricane/</guid>
+      <description>It’s been far too long, again, since I posted to this blog, but this time I have a legitimate excuse: we’ve been without power or internet, or much of anything, since about 11:45 AM on Monday, August 10, 2020. So we have now been more than 10.5 days without power. I’m only able to post this because of a portable generator I bought on August 12 (that was an adventure in itself) and the wireless hotspot that my phone has provided almost 24/7 ever since the storm hit.</description>
+    </item>
+    <item>
+      <title>Last of the Clean-up? - Derecho Follow-Up for September 6</title>
+      <link>http://localhost:1313/post/last-of-the-clean-up----derecho-follow-up-for-september-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-of-the-clean-up----derecho-follow-up-for-september-6/</guid>
+      <description>Tomorrow is Labor Day 2020, but it also will mark 4 weeks since the August 10 derecho. Thankfully, I believe today marked the end of the clean-up, at least on my own property. I was going to write this post yesterday after another 6+ hours of work outdoors, but last night we had another storm roll through, and all day the winds have been blowing upwards of 40 mph, so I put in another 6 hours or so cleaning up even more debris.</description>
+    </item>
+    <item>
+      <title>Launching MacDown from a Terminal</title>
+      <link>http://localhost:1313/post/launching-macdown-from-a-terminal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/launching-macdown-from-a-terminal/</guid>
+      <description>Lately I find that I like to open Markdown documents in MacDown rather than Atom. This is espeically true of things like “README.md” documents that I intend to read, but not edit. This can be done without any special configuration, assuming MacDown is installed and working. To do that use a syntax like this:&#xA;open -b com.uranusjr.macdown path/to/document.md A command I’ve been using quite often today is: open -b com.uranusjr.macdown ~/GitHub/dg-isle/docs/install/install-local-migrate.</description>
+    </item>
+    <item>
+      <title>lawn-is-looking-better</title>
+      <link>http://localhost:1313/post/lawn-is-looking-better/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/lawn-is-looking-better/</guid>
+      <description>Mowing the lawn this evening and I&amp;rsquo;m happy to report that most of the weeds I treated last evening have curling leaves. As Young Frankenstein might say&amp;hellip; This could work!</description>
+    </item>
+    <item>
+      <title>matomo-notes</title>
+      <link>http://localhost:1313/post/matomo-notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/matomo-notes/</guid>
+      <description>Last weekend Mackenzie and I created a new Matomo analytics server on a DigitalOcean droplet w/ 2G of RAM. The story of its development and maintenance is being told in Matomo Installation Notes and its dashboard is available at https://analytics.summittservices.com.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>maybe-paperless-ngx</title>
+      <link>http://localhost:1313/post/maybe-paperless-ngx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/maybe-paperless-ngx/</guid>
+      <description>Today&amp;rsquo;s income tax prep adventures has me believing that I need a new instance of Paperless, maybe Paperless-NGX this time? Now if I can just get Mackenzie to stand up and configure a new bare-metal Linux server. 🙃</description>
+    </item>
+    <item>
+      <title>mcd.html</title>
+      <link>http://localhost:1313/post/mcd-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/mcd-html/</guid>
+      <description>Grabbing a quick lunch at McDonald&amp;rsquo;s. -/-/-/&#xA;location: Madras, OR</description>
+    </item>
+    <item>
+      <title>middle-school-soccer-dual</title>
+      <link>http://localhost:1313/post/middle-school-soccer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/middle-school-soccer/</guid>
+      <description>My back isn&amp;rsquo;t as sore this morning as I expected it might be. I did ref some middle school soccer matches last night on a VERY hard field at STC. Managed to trip over a sprinkler head that I don&amp;rsquo;t think has been &amp;ldquo;used&amp;rdquo; in years.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Migrating the Wieting Site in Drupal 8</title>
+      <link>http://localhost:1313/post/migrating-the-wieting-site-in-drupal-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/migrating-the-wieting-site-in-drupal-8/</guid>
+      <description>Migrating the Wieting Site in Drupal 8 Sorry for my extended absence here, I’ve been uber-busy with work, but have also been able to work a little (lots of long nights and weekends) on a long-overdue update of https://Wieting.TamaToledo.com in Drupal 8. It’s true, I have been thinking about moving that site to make it static, almost certainly using Hugo, but I thought before doing so I’d give Drupal 8 one more try.</description>
+    </item>
+    <item>
+      <title>moved-gc-azure-billing</title>
+      <link>http://localhost:1313/post/moved-gc-azure-billing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/moved-gc-azure-billing/</guid>
+      <description>Took steps this morning to move billing for my GC/library Azure services to the library&amp;rsquo;s credit card.&#xA;-/-/-/&#xA;location: Grinnell, IA</description>
+    </item>
+    <item>
+      <title>Moving Front Matter to the Rear</title>
+      <link>http://localhost:1313/post/moving-front-matter-to-the-rear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/moving-front-matter-to-the-rear/</guid>
+      <description>I&amp;rsquo;ve been using an iOS app called Publisher for Ghost to craft and post new microposts from my iPhone. Just one problem so far&amp;hellip; I can&amp;rsquo;t seem to successfully edit and save excerpt content so my current scheme of populating the excerpt with &amp;ldquo;front matter&amp;rdquo; isn&amp;rsquo;t working well. So, it&amp;rsquo;s time to move that front matter out of the excerpt and to the end of the content body.&#xA;Update: Publisher for Ghost just isn&amp;rsquo;t cutting it so I did a little research and am on the cusp of making a switch&amp;hellip; to Ulysses, because it has a great little piece of Ghost integration built-in.</description>
+    </item>
+    <item>
+      <title>Moving to Netlify CMS</title>
+      <link>http://localhost:1313/post/moving-to-netlify-cms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/moving-to-netlify-cms/</guid>
+      <description>In my last post, Adding Netlify CMS for Editing This Blog, I was able to successfully engage the Netlify CMS with a “local” copy of this blog. But I never got the CMS to work in production with this blog’s App on DigitalOcean (DO). I should note that DO’s support folks were very helpful, but in the end I think all of the client-side stuff that Netlify CMS is doing was more than they were willing (capable?</description>
+    </item>
+    <item>
+      <title>My Blog To-Do List</title>
+      <link>http://localhost:1313/post/my-blog-to-do-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/my-blog-to-do-list/</guid>
+      <description>Witness the birth of a new blog! Actually, a new version of a very old blog. There&amp;rsquo;s still a lot of work to do.&#xA;So, here&amp;rsquo;s my &amp;ldquo;to-do&amp;rdquo; list, as it pertains to this blog, along with possible sources of guidance and inspiration.&#xA;Update social icons and links in the blog. Lose Twitter in favor of Mastodon, perhaps? Again, see https://ghost.org/tutorials/add-social-media-icons/. Add the OneTab content type. My old Hugo blog distinguished between a &amp;ldquo;post&amp;rdquo; and other types that I called &amp;ldquo;micropost&amp;rdquo; and &amp;ldquo;onetab&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>My Hugo Timeline</title>
+      <link>http://localhost:1313/post/my-hugo-timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/my-hugo-timeline/</guid>
+      <description>What follows is an excerpt from this blog&amp;rsquo;s README.md file.&#xA;I&amp;rsquo;ve successfully added the code to drive a new /timeline page as part of this blog, but I did so &amp;ldquo;locally&amp;rdquo;, and now I&amp;rsquo;d like to repeat the process but using the aforementioned SummittDweller/hugo-timelinemodule.&#xA;I used guidance found in Hugo Modules: Getting Started to make this happen, like so:&#xA;╭─mark@Marks-Mac-Mini ~/GitHub/blogs-SummittDweller ‹main› ╰─$ brew install go ╭─mark@Marks-Mac-Mini ~/GitHub/blogs-SummittDweller ‹main› ╰─$ brew upgrade # This is not &amp;quot;required&amp;quot;, but probably overdue.</description>
+    </item>
+    <item>
+      <title>My MQTT Weekend</title>
+      <link>http://localhost:1313/post/my-mqtt-weekend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/my-mqtt-weekend/</guid>
+      <description>Now that I’ve cleared the driveway of the latest snowfall, I am officially declaring this to be “My MQTT Weekend”. It actually started on Friday night, the weekend, not the snow. Rather than posting a lot of gibberish here, I’ll just point you to my project repo at https://github.com/SummittDweller/Motorized_MQTT_Blinds and especially the Additional Resources portion of the README.md file there. If/when I get this all working maybe I will post some photos, maybe.</description>
+    </item>
+    <item>
+      <title>My Photos Workflow</title>
+      <link>http://localhost:1313/post/my-photos-workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/my-photos-workflow/</guid>
+      <description>I recently returned from vacation in Norway with a few hundred photos and a handful of videos, taken mostly using my iPhone 8. I find that the Apple Photos app does a pretty nice job of cataloging photos and videos into Moments. Each Moment includes all the images taken in a single day, and sometimes in a particular location, if photos are taken on the same day, but a great distance apart.</description>
+    </item>
+    <item>
+      <title>New Announcement Feature</title>
+      <link>http://localhost:1313/post/new-announcement-feature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/new-announcement-feature/</guid>
+      <description>Quite some time ago I added an Announcement feature to the Rootstalk website that I helped design and maintain for Grinnell College. Events of the past week have driven me to implement this feature as part of this blog and one other site, with some minor improvements.&#xA;The original Rootstalk version of the feature is very simple, it works around this logic:&#xA;The site’s content/_index.html page invokes a shortcode named announcement.</description>
+    </item>
+    <item>
+      <title>new-gpx-merge</title>
+      <link>http://localhost:1313/post/new-gpx-merge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/new-gpx-merge/</guid>
+      <description>Last evening I rode my bike to/from soccer so this morning I wanted to &amp;ldquo;merge&amp;rdquo; those two track logs before publishing them to https://hikes.SummittDweller.com. So, I found and forked https://github.com/locked-fg/gpxmerger to https://github.com/SummittDweller/gpxmerger and after tweaking my own code IT WORKS!&#xA;The command I ran to make my first &amp;ldquo;merge&amp;rdquo; was: python3 gpxmerger.py &amp;quot;/Users/mark/Downloads/2023-04-14 16:32 - 3m 11s.gpx&amp;quot; &amp;quot;/Users/mark/Downloads/2023-04-14 20:40 - 3m 27s.gpx&amp;quot;. I think I might tweak the script soon to just pull all of the .</description>
+    </item>
+    <item>
+      <title>NOT Like a Rolling Stone</title>
+      <link>http://localhost:1313/post/not-like-a-rolling-stone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/not-like-a-rolling-stone/</guid>
+      <description>Where has the last year gone? While life (metaphorically the stream in the hero image) rolls on, this blog (any of the moss covered rocks in the image) has not.&#xA;This blog was born of good intentions, but frankly it&amp;rsquo;s too hard for an old fart like me to remember how to maintain it and make contributions. Having not posted here in many months, I had to consult my &amp;ldquo;documentation&amp;rdquo;, and ultimately my retired password manager, to get back in and post this.</description>
+    </item>
+    <item>
+      <title>nv.html</title>
+      <link>http://localhost:1313/post/nv-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/nv-html/</guid>
+      <description>Winnemucca ETA is 11:35pm. Never have I seen so many stars. -/-/-/&#xA;location: Denico Junction, NV</description>
+    </item>
+    <item>
+      <title>On-prem Servers with StaticCMS and Remote Access for the Wieting</title>
+      <link>http://localhost:1313/post/on-prem-servers-with-staticcms-and-remote-access-for-the-wieting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/on-prem-servers-with-staticcms-and-remote-access-for-the-wieting/</guid>
+      <description>It&amp;rsquo;s no secret that I love building ridiculously inexpensive but secure and reliable static web sites. Unfortunately, adding and maintaining content can be a pain. *I&amp;rsquo;d rather write code than content! * So, I also want to pawn that content responsibility off on others, but that means teaching them to use VSCode – my means of editing static content – or providing a CMS (content management system) they can work with.</description>
+    </item>
+    <item>
+      <title>One of Many Challenges</title>
+      <link>http://localhost:1313/post/one-of-many-challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/one-of-many-challenges/</guid>
+      <description>For 2021 I’ve signed on to be a member of the steering committee for Toledo’s 2021 Community Visioning (CV) project coordinated by Tree’s Forever and Iowa’s Living Roadways, Iowa State University Extension and Outreach, and other partners. Tama is also a Community Visioning participant in 2021.&#xA;I Like to Walk I try to get outside and walk as much as I can, but I especially like walking with a purpose… not just walking for the sake of exercise or stress-relief.</description>
+    </item>
+    <item>
+      <title>owensboro-ky</title>
+      <link>http://localhost:1313/post/owensboro-ky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/owensboro-ky/</guid>
+      <description>Staying this weekend in a Marriott in Owensboro, Kentucky, for GeoWoodstock 2023. Headed to Louisville in the morning for some oldies.&#xA;-/-/-/&#xA;location: Owensboro, KY</description>
+    </item>
+    <item>
+      <title>Pandemic Pastime: Walking and Picking Up Trash</title>
+      <link>http://localhost:1313/post/pandemic-pastime--walking-and-picking-up-trash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/pandemic-pastime--walking-and-picking-up-trash/</guid>
+      <description>It’s been far too long since I posted to this blog; I guess I’ve been busy? Nah, not any more than usual, but during the COVID-19 pandemic I have doubled my efforts to get out and walk in the fresh air whenever possible. I’m thankful for my small “scurry” – that’s the term for a collective of squirrels – who not only take walks with me around Cherry Lake, but all around town.</description>
+    </item>
+    <item>
+      <title>Paperless-ng on CentOS7</title>
+      <link>http://localhost:1313/post/paperless-ng-on-centos7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/paperless-ng-on-centos7/</guid>
+      <description>Over the end-of-year holiday break in 2020 I managed to ressurect my old home-office CentOS 7 development server. I had a mind salvage and update Paperless on that server, and I did manage to do that. However, along the way I discovered the Paperless-ng branch of the project and I installed it, using Docker as suggested, by creating a new project and configuration I’ve saved as summittdweller/paperless-ng-dockerfiles.&#xA;Mounting my ReadyNAS Share To successfully mount my ReadyNAS/Paperless SMB share I had to do the following on centos7 as root:</description>
+    </item>
+    <item>
+      <title>pca-weekend</title>
+      <link>http://localhost:1313/post/pca-weekend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/pca-weekend/</guid>
+      <description>Departing for the PCA (Peoples&amp;rsquo; Choice Awards) weekend in Clear Lake / Mason City. Got The Some IT in tow. First camping of the season.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Planting Sempervivum tectorum (and More)</title>
+      <link>http://localhost:1313/post/planting-hens-and-chicks-and-more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/planting-hens-and-chicks-and-more/</guid>
+      <description>This morning I started an experiment&amp;hellip; clipping leaves (&amp;ldquo;lobes&amp;rdquo; might be a better term for these things) from a healthy, indoor Sempervivum tectorum. What&amp;rsquo;s that, you ask? The common name is Hens and Chicks.&#xA;A couple of weeks ago I bought an on-sale strawberry pot full of Sempervivum tectorum and I have it growing on a little table on the front porch. It&amp;rsquo;s doing QUITE WELL there! A couple of days ago I uprooted a 3 foot square patch of Snow on the Mountain from a spot in my front flower beds (outside out southeast bedroom window), and that left a big bare patch of soil to be dealt with.</description>
+    </item>
+    <item>
+      <title>Proper Python</title>
+      <link>http://localhost:1313/post/proper-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/proper-python/</guid>
+      <description>What follows is the README.md file from my GitHub repo where https://blog.summittdweller.com is built. It outlines how to &amp;ldquo;properly&amp;rdquo; add Python to a project such that we can create an easily reproducible &amp;ldquo;virtual environment&amp;rdquo; without storing the necessary Python libraries in GitHub.&#xA;From the README.md&amp;hellip;&#xA;blogs-SummittDweller The Python portions of this repo were gleaned from https://github.com/SummittDweller/hikes. This was the repo for my https://blog.SummittDweller.com/ static website before I moved the blog to Ghost in 2023.</description>
+    </item>
+    <item>
+      <title>rawlins.html</title>
+      <link>http://localhost:1313/post/rawlins-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/rawlins-html/</guid>
+      <description>Posting an updated itinerary for eastbound day 3. -/-/-/&#xA;location: Rawlins, WY</description>
+    </item>
+    <item>
+      <title>Redefining an Azure Static Web App</title>
+      <link>http://localhost:1313/post/redefining-an-azure-static-web-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/redefining-an-azure-static-web-app/</guid>
+      <description>Today&amp;rsquo;s burning question&amp;hellip; Can I easily &amp;ldquo;redefine&amp;rdquo; an Azure Static Web App?&#xA;So, the source code for my password-protected Wieting-Guild-Pages is broken and I can&amp;rsquo;t update the stale old content that&amp;rsquo;s currently there. It&amp;rsquo;s a long story. Fortunately, I&amp;rsquo;ve rebuilt that code in a new GitHub repo and have it working again. Yay!&#xA;Now, can I take the deployment parts of the old/broken repo and apply them to the new repo and make it all work again?</description>
+    </item>
+    <item>
+      <title>reduce-spaces-stored-image-sizes</title>
+      <link>http://localhost:1313/post/reduce-azure-stored-image-sizes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/reduce-azure-stored-image-sizes/</guid>
+      <description>Ok, I get the sense that constantly pulling enormous digital images from DigitalOcean Spaces to rebuild this blog is unnecessarily chewing up lots of bandwidth. Today I&amp;rsquo;d like to begin fixing that by creating a utility, probably in Python, to grab all those images one-by-one, make a smaller copy of each, and put those copies back into a web-ready subdirectory in Spaces, or something like that.&#xA;There&amp;rsquo;s a wealth of probably pertinent information to be had in https://docs.</description>
+    </item>
+    <item>
+      <title>relearning-11ty.html</title>
+      <link>http://localhost:1313/post/relearning-11ty-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/relearning-11ty-html/</guid>
+      <description>As I started to follow-up on Gating My Content &amp;amp; More - Parts 1 and 2 I quickly realized that I&amp;rsquo;ve already forgotten most of what I learned about eleventy back in December. So, since I already have years of Hugo experience, I elected to begin again with Migrating from Hugo to Eleventy and that article makes an early reference to A Deep Dive Into Eleventy Static Site Generator. If those fail there&amp;rsquo;s Let&amp;rsquo;s Learn Eleventy.</description>
+    </item>
+    <item>
+      <title>removed-title-display-from-microposts-like-this-one.html</title>
+      <link>http://localhost:1313/post/removed-title-display-from-microposts-like-this-one-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/removed-title-display-from-microposts-like-this-one-html/</guid>
+      <description>This morning I modified .eleventy.js to remove post.title display from all micropost 🔬 type posts, like this one. 🙂 Now, maybe I&amp;rsquo;ll also add the little microscope icon automatically?&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>rename-azure-subscription.html</title>
+      <link>http://localhost:1313/post/rename-azure-subscription-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/rename-azure-subscription-html/</guid>
+      <description>Today I plan to follow the guidance found in Rename Azure Subscriptions and Find Your Environments Faster to fix the name of my personal Azure subscription 1, and maybe more. That&amp;rsquo;s a horrible name, I know! Done! The new subscription name is SummittDweller Pay-As-You-Go. Much better!&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>reset-python.html</title>
+      <link>http://localhost:1313/post/reset-python-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/reset-python-html/</guid>
+      <description>Reset Python environment on my Mac Mini using: https://dev.to/aditya005/right-way-to-uninstall-clean-python-on-a-mac-4jfo</description>
+    </item>
+    <item>
+      <title>Roadtrip: Geowoodstock 2023</title>
+      <link>http://localhost:1313/post/roadtrip-geowoodstock-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/roadtrip-geowoodstock-2023/</guid>
+      <description>Geowoodstock 2023 (GC89GMX) and Kentucky&amp;rsquo;s oldest surviving geocache (GC39E) were the intended destinations of another epic roadtrip with gossamar on May 25-28, 2023.&#xA;The route and cache count looked something like this:&#xA;The green lines represent my &amp;ldquo;outbound&amp;rdquo; route while the red lines show my &amp;ldquo;return&amp;rdquo; route back from GC39E. The ordered list of caches and events found is available for download below.&#xA;[&#xA;Geowoodstock Caches Found&#xA;The GPS Maze at the top of the list was not found first, but it&#39;s listed that way.</description>
+    </item>
+    <item>
+      <title>salt.html</title>
+      <link>http://localhost:1313/post/salt-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/salt-html/</guid>
+      <description>Tom&amp;rsquo;s reaction when we popped over the hill to see the Bonneville salt flats was holy shit. -/-/-/&#xA;location: West Wendover, NV</description>
+    </item>
+    <item>
+      <title>Searching for a Search Solution</title>
+      <link>http://localhost:1313/post/glad-i-found-pagefind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/glad-i-found-pagefind/</guid>
+      <description>A few months ago I sat in on a CFE.dev webinar and I was really impressed with what I saw. I made a note to come back and look closer at Pagefind, and my new blog &amp;ndash; this blog that you&amp;rsquo;re presumably reading right now &amp;ndash; really needed a search feature, so the &amp;ldquo;Search&amp;rdquo; box on this page (I hope it&amp;rsquo;s there) is the outcome.&#xA;Glad I Found Pagefind So, I started looking closely at search options and considered things like Lunr, which I&amp;rsquo;ve used before, and Solr, which I both love and hate (because of its JAVA roots).</description>
+    </item>
+    <item>
+      <title>show-last-two-microposts-at-top-of-front-page</title>
+      <link>http://localhost:1313/post/show-last-two-microposts-at-top-of-front-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/show-last-two-microposts-at-top-of-front-page/</guid>
+      <description>Now that microposts are off the front page, and have a page of their own as a new collection, let&amp;rsquo;s see if we can modify the home page, that&amp;rsquo;s index.njk by the way, to show the last micropost across the full-width at the top of the content.&#xA;-/-/-/&#xA;type: micropost&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Snowpocalypse 2024 - Round 2</title>
+      <link>http://localhost:1313/post/snowpocalypse-2024-round-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/snowpocalypse-2024-round-2/</guid>
+      <description>Just thought I would post a couple more photos, with a probable update later today. Took these photos yesterday (Friday, January 12) at about noon when I ventured outside to clear the driveway. Didn&amp;rsquo;t quite get it all done because it was just too cold and windy, and the snow was still falling. I didn&amp;rsquo;t even attempt to clear the front porch&amp;hellip; ain&amp;rsquo;t nobody coming to visit today anyway. 8^) There are steps and a deck under there somewhere.</description>
+    </item>
+    <item>
+      <title>Snowpocalypse 2024?</title>
+      <link>http://localhost:1313/post/snowpocalypse-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/snowpocalypse-2024/</guid>
+      <description>Maybe not as bad as predicted (at least per some predictions) but it was enough wet snow for me. Took almost an hour to clear using my EGO cordless snow-thrower (love it) and there&amp;rsquo;s more to be done before Mackenzie and I can leave for work in the morning. Fortunately both Grinnell College and South Tama County schools were closed today. GC re-opens at noon tomorrow and STC just announced that they will be closed on Wednesday too.</description>
+    </item>
+    <item>
+      <title>sold-mower-and-bunk-bed</title>
+      <link>http://localhost:1313/post/sold-mower-and-bunk-bed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/sold-mower-and-bunk-bed/</guid>
+      <description>Both my EGO self-propelled mower and old twin-over-full bunk bed sold and taken away today. Yay! Next up, The Rolling Stone camper and Ecotric eBike.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Spinning Up StaticCMS</title>
+      <link>http://localhost:1313/post/spinning-up-staticcms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/spinning-up-staticcms/</guid>
+      <description>Today is Saturday, January 13, 2024, and I won&amp;rsquo;t be able to watch the KC Chief&amp;rsquo;s wildcard playoff game vs. the Miami Dolphins tonight because it is streaming ONLY on Peacock, and I refuse to pay them for the &amp;ldquo;privilege&amp;rdquo; to watch it live. So, I&amp;rsquo;m going to do something productive instead. Let&amp;rsquo;s see if I can spin up an instance of StaticCMS to provide an OPEN CMS for the content editor(s) behind the Wieting Theatre website.</description>
+    </item>
+    <item>
+      <title>streamlit-apps-fork</title>
+      <link>http://localhost:1313/post/streamlit-apps-fork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/streamlit-apps-fork/</guid>
+      <description>This morning I found some new Streamlit resources from developer Jcharis, and I forked his Jcharis/Streamlit_DataScience_Apps to make my own copy at SummittDweller/Streamlit_DataScience_Apps&#xA;Now I&amp;rsquo;m going to try and get the component Simple_CRuD_Blog_App_with_Streamlit working locally as a proof-of-concept. Since I can&amp;rsquo;t &amp;ldquo;clone&amp;rdquo; the single project repo, and a &amp;ldquo;sparse checkout&amp;rdquo; seems wasteful since I&amp;rsquo;ll never push back to the original project, I&amp;rsquo;m going to git init an entirely new local named simple-CRuD-blog-app-with-streamlit and just copy/paste the contents.</description>
+    </item>
+    <item>
+      <title>streamlit-ghost-azure-resources</title>
+      <link>http://localhost:1313/post/streamlit-ghost-azure-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/streamlit-ghost-azure-resources/</guid>
+      <description>I&amp;rsquo;ve got Mackenzie looking at Streamlit as a means of building a mobile-friendly app that I can use to create posts like this one. That app will need to allow me to edit a TITLE and Markdown BODY fields, capture location and time, and post all of that information to my personal blog&amp;hellip; preferably from my cell phone. I&amp;rsquo;ve captured some possible resources and guidance in https://www.one-tab.com/page/71iaDADxT-eLEOx15qeVnQ.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>survived-first-soccer-officiating</title>
+      <link>http://localhost:1313/post/survived-first-soccer-officiating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/survived-first-soccer-officiating/</guid>
+      <description>Completed my first soccer officiating assignment tonight&amp;hellip; STC middle school girls and boys doubleheader, plus two B-games, vs. Mt. Vernon. 2.5 hours total play, but not too bad. I still have a LOT to learn! </description>
+    </item>
+    <item>
+      <title>Tama-Toledo Parks - Derecho Follow-Up for August 24</title>
+      <link>http://localhost:1313/post/tama-toledo-parks---derecho-follow-up-for-august-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/tama-toledo-parks---derecho-follow-up-for-august-24/</guid>
+      <description>So, the Iowa Geocacher’s Organization annual Hike-n-Seek event is coming to Tama County and Otter Creek Lake on Friday-Sunday, September 25-27, barring any more 2020 disasters. 🍀 The weekend is slated to include September’s Friday Lunch Club (FLC) too, but the restaurant that was slated to host FLC was destroyed in the August 10 derecho.&#xA;This morning The FLC Committee, aka Borky00, aka Bill, asked me about possible outdoor park settings for FLC as a means of giving folks plenty of room for social distancing.</description>
+    </item>
+    <item>
+      <title>tama-walkingaudit.html</title>
+      <link>http://localhost:1313/post/tama-walkingaudit-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/tama-walkingaudit-html/</guid>
+      <description>Tama walking audit&amp;hellip;downtown and to Cherry Lake. -/-/-/&#xA;location: Tama, IA</description>
+    </item>
+    <item>
+      <title>Tested Positive for COVID</title>
+      <link>http://localhost:1313/post/tested-positive-for-covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/tested-positive-for-covid/</guid>
+      <description>Finally got to see the doctor today after starting to feel ill on September 3, and to my surprise I tested positive for COVID. Symptoms were mild so I didn&amp;rsquo;t need or receive any treatment.</description>
+    </item>
+    <item>
+      <title>Testing ghost publisher again</title>
+      <link>http://localhost:1313/post/testing-ghost-publisher-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/testing-ghost-publisher-again/</guid>
+      <description>I am back on my iPhone testing the Ghost Publisher app once more. The problem here is that the &amp;ldquo;tags&amp;rdquo; feature doesn&amp;rsquo;t appear to work at all? I could fork the code (https://github.com/willowsokora/Ghost-Publisher) and try to &amp;ldquo;fix&amp;rdquo; it&amp;hellip; nah. Maybe Mackenzie wants to learn some Swift programming? Or, more likely, let&amp;rsquo;s see what she can do with Apple Shortcuts and the Ghost Admin API.&#xA;-/-/-/ location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>testing-my-new-publisher-for-ghost-app-on-iphone.html</title>
+      <link>http://localhost:1313/post/testing-my-new-publisher-for-ghost-app-on-iphone-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/testing-my-new-publisher-for-ghost-app-on-iphone-html/</guid>
+      <description>Testing my new &amp;lsquo;Publisher for Ghost&amp;rsquo; app on iPhone&amp;hellip; yup, it worked! -/-/-/ location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Thanksgiving 2020</title>
+      <link>http://localhost:1313/post/thanksgiving-2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/thanksgiving-2020/</guid>
+      <description>Sorry, I’ve posted and experienced too much sadness in the last two weeks, and more. Two members of our immediate family, Sully and Stitch, passed away on November 14th and 20th, respectively. Sully was our male kitty, only about 6 years old and his passing was a real shock. He was an ornery, sometimes grumpy cat, but very loveable at times. We miss him very much. Stitch was the matriarch of our cat family, about 18 years old and a gorgeous long-haired kitty.</description>
+    </item>
+    <item>
+      <title>The Derecho: Consolidated Posts and Microposts: August 10 thru September 6, 2020</title>
+      <link>http://localhost:1313/post/the-derecho--consolidated-posts-and-microposts--august-10-thru-september-6--2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/the-derecho--consolidated-posts-and-microposts--august-10-thru-september-6--2020/</guid>
+      <description>The following is a chronological consolidation of posts and microposts from August 10, commonly known in east and central Iowa as “The Day of the Derecho”, through September 6, 2020.&#xA;The derecho hit my home in Toledo, Iowa, at about 11:30 AM on Monday, August 10, 2020. Straight-line winds were clocked at nearly 140 miles per hour, and sustained for more than 20 minutes across a path almost 40 miles wide.</description>
+    </item>
+    <item>
+      <title>This Blog in Eleventy &#43; Ghost</title>
+      <link>http://localhost:1313/post/this-blog-in-eleventy-ghost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/this-blog-in-eleventy-ghost/</guid>
+      <description>This past weekend my daughter, Mackenzie, made the decision to move her portfolio page into a configuration that features Eleventy (11ty) on the frontend with content managed in Ghost on the backend. I like that combination very much so to help support her move, and learn a little something along the way, we&amp;rsquo;ve setup a new Ghost server in a DigitalOcean droplet, namely ghostonubuntu2204-s-1vcpu-1gb-intel-nyc1-01 , and I&amp;rsquo;ve decided to make the same move myself.</description>
+    </item>
+    <item>
+      <title>Time for a New Static CMS Approach</title>
+      <link>http://localhost:1313/post/time-for-a-new-static-cms-approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/time-for-a-new-static-cms-approach/</guid>
+      <description>Wow, it&amp;rsquo;s been way too long since I posted here. So much has happened, and been missed along the way. Time to fix that and I&amp;rsquo;m going to start with a re-write of the Wieting Theatre website using staticcms/core. Watch for a full blog post coming soon!</description>
+    </item>
+    <item>
+      <title>Time for a Test Page</title>
+      <link>http://localhost:1313/post/time-for-a-test-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/time-for-a-test-page/</guid>
+      <description>My daughter, Mackenzie, and I have been using this blog for testing new features lately. If you’ve been following me here you’ve seen some of them pop-up on the home page. Now that we have a host of them working, I need to move some out–of-the-way so they don’t clutter things up too much. However, I don’t want to discard them, in some cases we didn’t implement them anywhere else so this is the only working copy we have.</description>
+    </item>
+    <item>
+      <title>tornado-warning-3-31.html</title>
+      <link>http://localhost:1313/post/tornado-warning-3-31-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/tornado-warning-3-31-html/</guid>
+      <description>Just came up from the basement after a Tama Co. tornado warning, and the wind is picking up again. 🌪 No visible damage outside, but I did find a puddle of pea size hail about 10 minutes after the storm.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Travel...MSP to CDG to OSL to KKN</title>
+      <link>http://localhost:1313/post/travel---msp-to-cdg-to-osl-to-kkn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/travel---msp-to-cdg-to-osl-to-kkn/</guid>
+      <description>This was a very long day in the air, and then we discovered the &amp;lsquo;midnight sun&amp;rsquo;!&#xA;This post is really part of my Norway photo blog which you can find elsewhere on this site. Note that the photos here are in reverse-chronological order with the exception of one “lead” post that lays out our itinerary. So, read on…&#xA;I drove the 5 of us, plus luggage, in our mini-van to Minneapolis for our departure, and we left home early just in case there were surprises.</description>
+    </item>
+    <item>
+      <title>turned-hot-water-recirc-off.html</title>
+      <link>http://localhost:1313/post/turned-hot-water-recirc-off-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/turned-hot-water-recirc-off-html/</guid>
+      <description>Turned off the hot water recirc at home, and treated one plant for mites.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>u-post-cap-stl-file</title>
+      <link>http://localhost:1313/post/u-post-cap-stl-file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/u-post-cap-stl-file/</guid>
+      <description>Need to try something new here&amp;hellip; I have a 3d print .stl model file that I want to share with others. I wonder if I can do that here as an attachment? Let&amp;rsquo;s try&amp;hellip;&#xA;[&#xA;42 to 27x35 Trapezoid UPost Cap&#xA;42-to-27x35-Trapezoid-UPost-Cap.stl&#xA;66 KB&#xA;.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle ](GHOST_URL/content/files/2023/07/42-to-27x35-Trapezoid-UPost-Cap.stl)</description>
+    </item>
+    <item>
+      <title>Updated-Rootstalk-with-landscape-orientation-message</title>
+      <link>http://localhost:1313/post/updated-rootstalk-with-landscape-orientation-message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/updated-rootstalk-with-landscape-orientation-message/</guid>
+      <description>I pushed some Rootstalk updates into production (https://Rootstalk.Grinnell.edu) this morning and am making note of that here since I don&amp;rsquo;t have this slick micropost capability on my professional blog. 🙃&#xA;-/-/-/&#xA;location: Grinnell, IA</description>
+    </item>
+    <item>
+      <title>upgrading-matomo-php</title>
+      <link>http://localhost:1313/post/upgrading-matomo-php/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/upgrading-matomo-php/</guid>
+      <description>This afternoon I&amp;rsquo;m adding https://digital.grinnell.edu (site ID is 17) to my own Matomo instance and I&amp;rsquo;m prompted to upgrade PHP on that Matomo droplet (DigitalOcean). I did so quite easily following Upgrade PHP from 7.2 to 7.4 on CentOS 8 and Apache. I&amp;rsquo;ve also updated my Drupal version, and some modules, in https://digital.grinnell.edu along with adding the matomo module, but that module is now reporting:&#xA;The validation of &amp;quot;http://analytics.summittservices.com/matomo.php&amp;quot; failed with error &amp;quot;Error opening socket ssl://analytics.</description>
+    </item>
+    <item>
+      <title>Westbound to Seattle - Day 1</title>
+      <link>http://localhost:1313/post/westbound-to-seattle---day-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/westbound-to-seattle---day-1/</guid>
+      <description>Day 1 - Toledo, IA to Glendive, MT This is our planned route for Day 1 using a speed factor of 1.0 (traveling at the speed limit). Fuel cost is based on 40 mpg and $4.00 per gallon averages. Fuel stops typically have a 15-minute duration and rest areas allow 5-minutes each.&#xA;A list of possible geocache targets for the entire route can be found at https://www.geocaching.com/play/map/lists/BMBBMD6.</description>
+    </item>
+    <item>
+      <title>Westbound to Seattle - Day 2</title>
+      <link>http://localhost:1313/post/westbound-to-seattle---day-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/westbound-to-seattle---day-2/</guid>
+      <description>Day 2 - Glendive, MT to Moses Lake, WA This is our planned route for Day 2 using a speed factor of 1.0 (traveling at the speed limit). Fuel cost is based on 40 mpg and $4.00 per gallon averages. Fuel stops typically have a 15-minute duration and rest areas allow 5-minutes each.&#xA;A list of possible geocache targets for the entire route can be found at https://www.geocaching.com/play/map/lists/BMBBMD6.</description>
+    </item>
+    <item>
+      <title>Westbound to Seattle - Day 3</title>
+      <link>http://localhost:1313/post/westbound-to-seattle---day-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/westbound-to-seattle---day-3/</guid>
+      <description>Day 3 - Moses Lake, WA to Seattle This is our planned route for Day 3 using a speed factor of 1.0 (traveling at the speed limit). Fuel cost is based on 40 mpg and $4.00 per gallon averages. Fuel stops typically have a 15-minute duration and rest areas allow 5-minutes each.&#xA;A list of possible geocache targets for the entire route can be found at https://www.geocaching.com/play/map/lists/BMBBMD6.</description>
+    </item>
+    <item>
+      <title>Wrap EVERYTHING in NPM!</title>
+      <link>http://localhost:1313/post/wrap-everything-in-npm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/wrap-everything-in-npm/</guid>
+      <description>So, node and npm seem to be all the rage these days, and perhaps for good reason. I recently fell in love with Eleventy/11ty over Hugo because it&amp;rsquo;s Javascript, not Go, and it&amp;rsquo;s elegantly simple with tons of flexibility. I recently tried to add Pagefind search to a Hugo static web site (see https://static.grinnell.edu/dlad-blog/posts/143-significant-rootstalk-retooling/). If Rootstalk, an Azure Static Web App was framed in node.js, as both Eleventy and Pagefind are, there would be no problem.</description>
+    </item>
+    <item>
+      <title>wrapping-hugo-in-npm</title>
+      <link>http://localhost:1313/post/wrapping-hugo-in-npm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/wrapping-hugo-in-npm/</guid>
+      <description>I ran into a big road block with implementation of Pagefind in Rootstalk today&amp;hellip; everything works fine in development, but I can&amp;rsquo;t easily deploy to Azure because there&amp;rsquo;s no way to &amp;ldquo;inject&amp;rdquo; Pagefind into an Azure Static Web App build before the &amp;ldquo;public&amp;rdquo; content gets deployed. I can generate the Pagefind parts after deployment, but that does me no good.&#xA;Tomorrow I need to have a look at my Rootstalk DigitalOcean deployment to see if what I already have might work there (DO uses a build script that I can add an npx.</description>
+    </item>
+  </channel>
+</rss>

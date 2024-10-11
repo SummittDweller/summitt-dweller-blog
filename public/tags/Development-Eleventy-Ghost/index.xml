@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development, Eleventy, Ghost on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/Development-Eleventy-Ghost/</link>
+    <description>Recent content in Development, Eleventy, Ghost on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/Development-Eleventy-Ghost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Blog To-Do List</title>
+      <link>http://localhost:1313/post/my-blog-to-do-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/my-blog-to-do-list/</guid>
+      <description>Witness the birth of a new blog! Actually, a new version of a very old blog. There&amp;rsquo;s still a lot of work to do.&#xA;So, here&amp;rsquo;s my &amp;ldquo;to-do&amp;rdquo; list, as it pertains to this blog, along with possible sources of guidance and inspiration.&#xA;Update social icons and links in the blog. Lose Twitter in favor of Mastodon, perhaps? Again, see https://ghost.org/tutorials/add-social-media-icons/. Add the OneTab content type. My old Hugo blog distinguished between a &amp;ldquo;post&amp;rdquo; and other types that I called &amp;ldquo;micropost&amp;rdquo; and &amp;ldquo;onetab&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>

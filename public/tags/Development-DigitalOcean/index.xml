@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development, DigitalOcean on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/Development-DigitalOcean/</link>
+    <description>Recent content in Development, DigitalOcean on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/Development-DigitalOcean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Built by Webhook &#43; Password Protection</title>
+      <link>http://localhost:1313/post/build-per-webhook-password-protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/build-per-webhook-password-protection/</guid>
+      <description>Today I used the resources you see in the OneTab shown above to build a trigger from a password-protected page in this blog to a DigitalOcean webhook. The purpose of the webhook is to rebuild and subsequently deploy the entire blog.&#xA;I thought about using a traditional Ghost action, like site.changed, to do this but I frequently like to post 3 or more blog updates in rapid succession, and I didn&amp;rsquo;t want Ghost triggering back-to-back-to-back rebuilds all of the time.</description>
+    </item>
+    <item>
+      <title>Engaging `s3cmd` to Download and Resize Images from DO Spaces</title>
+      <link>http://localhost:1313/post/engaging-s3cmd-to-download-and-resize-images-from-do-spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/engaging-s3cmd-to-download-and-resize-images-from-do-spaces/</guid>
+      <description>Earlier in this blog there&amp;rsquo;s a micropost that lays out the problem at hand. In a nutshell, most of the photos I saved in DigitalOcean Spaces are too big to be effective in this blog. They suck up lots of time and bandwidth every time this blog gets rebuilt, and then they are rendered at a fraction of their original size. This is exceptionall wasteful and unnecessary.&#xA;So, my task this morning is to install, configure, and engage the s3cmd tools to help get this done.</description>
+    </item>
+  </channel>
+</rss>

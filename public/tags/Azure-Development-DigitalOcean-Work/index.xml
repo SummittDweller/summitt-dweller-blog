@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure, Development, DigitalOcean, Work on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/Azure-Development-DigitalOcean-Work/</link>
+    <description>Recent content in Azure, Development, DigitalOcean, Work on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/Azure-Development-DigitalOcean-Work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wrap EVERYTHING in NPM!</title>
+      <link>http://localhost:1313/post/wrap-everything-in-npm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/wrap-everything-in-npm/</guid>
+      <description>So, node and npm seem to be all the rage these days, and perhaps for good reason. I recently fell in love with Eleventy/11ty over Hugo because it&amp;rsquo;s Javascript, not Go, and it&amp;rsquo;s elegantly simple with tons of flexibility. I recently tried to add Pagefind search to a Hugo static web site (see https://static.grinnell.edu/dlad-blog/posts/143-significant-rootstalk-retooling/). If Rootstalk, an Azure Static Web App was framed in node.js, as both Eleventy and Pagefind are, there would be no problem.</description>
+    </item>
+  </channel>
+</rss>

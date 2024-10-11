@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/Development/</link>
+    <description>Recent content in Development on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/Development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Added a Collection to This Blog</title>
+      <link>http://localhost:1313/post/how-i-added-a-collection-to-this-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/how-i-added-a-collection-to-this-blog/</guid>
+      <description>What follows is an excerpt taken directly from this project&amp;rsquo;s README.md file.&#xA;Adding a &amp;lsquo;micropost&amp;rsquo; Collection I&amp;rsquo;m following the guidance at Building content collections to turn my new micropost tag into a new Ghost collection. I&amp;rsquo;ve downloaded the routes.yml file from my Ghost installation as suggested in the guidance, and it&amp;rsquo;s now part of this project with initial contents of:&#xA;routes: collections: /micropost/: permalink: /micropost/{slug}/ template: index filter: tag:micropost /: permalink: /{slug}/ template: index filter: tag:-micropost taxonomies: tag: /tag/{slug}/ author: /author/{slug}/ This change allowed me to swap this first line of template logic for the second:</description>
+    </item>
+  </channel>
+</rss>

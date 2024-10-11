@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recreation, Micropost on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/Recreation-micropost/</link>
+    <description>Recent content in Recreation, Micropost on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/Recreation-micropost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bbbike.html</title>
+      <link>http://localhost:1313/post/bbbike-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/bbbike-html/</guid>
+      <description>Need to remember this address: https://garmin3.bbbike.org/</description>
+    </item>
+    <item>
+      <title>how-to-adjust-a-bike-helmet.html</title>
+      <link>http://localhost:1313/post/how-to-adjust-a-bike-helmet-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/how-to-adjust-a-bike-helmet-html/</guid>
+      <description>Found Video - How to Adjust a Bicycle 🚴🏽 Helmet a short time ago. 🙂&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+  </channel>
+</rss>

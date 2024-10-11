@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micropost, Home, 3D Printing on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/micropost-Home-3D-Printing/</link>
+    <description>Recent content in Micropost, Home, 3D Printing on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/micropost-Home-3D-Printing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3Dprinter-probe-z-offset</title>
+      <link>http://localhost:1313/post/3dprinter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/3dprinter/</guid>
+      <description>So, the probe Z-offset on my printer seems to be wonky. I noticed during bed leveling that my print head is contacting the bed of my printer just BEFORE the probe is triggered. That&amp;rsquo;s not good! I&amp;rsquo;m going to have a look at BLTouch / CR Touch Z Offset (Z Probe Offset) Calibration in Marlin Firmware to see if I can correct that posthaste.</description>
+    </item>
+  </channel>
+</rss>

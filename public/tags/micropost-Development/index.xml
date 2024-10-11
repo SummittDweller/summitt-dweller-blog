@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micropost, Development on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/micropost-Development/</link>
+    <description>Recent content in Micropost, Development on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/micropost-Development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>early-start-fixed-small-micropost-display</title>
+      <link>http://localhost:1313/post/early-start-fixed-small-micropost-display/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/early-start-fixed-small-micropost-display/</guid>
+      <description>I got an early start this morning (awake at 5:30 so what the heck) and had to restart my Grinnell College MacBook (which is still rebooting!) so I took a few minutes to debug the micropost content in this blog. Turns out I had a regex expression that was a little too aggressive. Removed that (it wasn&amp;rsquo;t entirely necessary) and all is well now.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>first-matomo-update</title>
+      <link>http://localhost:1313/post/first-matomo-update/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/first-matomo-update/</guid>
+      <description>Been prompted to do this for a couple of weeks so I finally took-the-plunge. https://analytics.summittservices.com/index.php?module=CoreUpdater&amp;amp;action=newVersionAvailable.&#xA;Wow, that was way too easy. I wonder if it really worked?&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>fixed-missing-individual-microposts</title>
+      <link>http://localhost:1313/post/fixed-missing-individual-microposts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fixed-missing-individual-microposts/</guid>
+      <description>Ok, I now have the missing individual micropost issue resolved. The fix required introducing a microposts/microposts.njk template patterned after posts/posts.njk, and linking that new template to a new layouts/micropost.njk template.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>hiding-microposts-breaks-pagination</title>
+      <link>http://localhost:1313/post/hiding-micrposts-breaks-pagination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/hiding-micrposts-breaks-pagination/</guid>
+      <description>So, since I could not get back to sleep this morning I started looking at this blog and wondering why my home page pagination isn&amp;rsquo;t right? After a little sleuthing I found that my custom logic to &amp;ldquo;hide all microposts from the home page&amp;rdquo; is working just as one might expect, except that this screws up the number of visible posts per page. Hmmm, this needs some work. Guess I need to legitimately funnel microposts into an entirely separate collection!</description>
+    </item>
+    <item>
+      <title>implementing-pagefind-here</title>
+      <link>http://localhost:1313/post/implementing-pagefind-here/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/implementing-pagefind-here/</guid>
+      <description>Last evening I followed Using PageFind with Eleventy for Search to try and implement robust search capability in this blog. I&amp;rsquo;m working in a new pagefind branch of the code to pull this off.&#xA;-/-/-/&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>maybe-paperless-ngx</title>
+      <link>http://localhost:1313/post/maybe-paperless-ngx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/maybe-paperless-ngx/</guid>
+      <description>Today&amp;rsquo;s income tax prep adventures has me believing that I need a new instance of Paperless, maybe Paperless-NGX this time? Now if I can just get Mackenzie to stand up and configure a new bare-metal Linux server. 🙃</description>
+    </item>
+    <item>
+      <title>new-gpx-merge</title>
+      <link>http://localhost:1313/post/new-gpx-merge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/new-gpx-merge/</guid>
+      <description>Last evening I rode my bike to/from soccer so this morning I wanted to &amp;ldquo;merge&amp;rdquo; those two track logs before publishing them to https://hikes.SummittDweller.com. So, I found and forked https://github.com/locked-fg/gpxmerger to https://github.com/SummittDweller/gpxmerger and after tweaking my own code IT WORKS!&#xA;The command I ran to make my first &amp;ldquo;merge&amp;rdquo; was: python3 gpxmerger.py &amp;quot;/Users/mark/Downloads/2023-04-14 16:32 - 3m 11s.gpx&amp;quot; &amp;quot;/Users/mark/Downloads/2023-04-14 20:40 - 3m 27s.gpx&amp;quot;. I think I might tweak the script soon to just pull all of the .</description>
+    </item>
+    <item>
+      <title>reduce-spaces-stored-image-sizes</title>
+      <link>http://localhost:1313/post/reduce-azure-stored-image-sizes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/reduce-azure-stored-image-sizes/</guid>
+      <description>Ok, I get the sense that constantly pulling enormous digital images from DigitalOcean Spaces to rebuild this blog is unnecessarily chewing up lots of bandwidth. Today I&amp;rsquo;d like to begin fixing that by creating a utility, probably in Python, to grab all those images one-by-one, make a smaller copy of each, and put those copies back into a web-ready subdirectory in Spaces, or something like that.&#xA;There&amp;rsquo;s a wealth of probably pertinent information to be had in https://docs.</description>
+    </item>
+    <item>
+      <title>show-last-two-microposts-at-top-of-front-page</title>
+      <link>http://localhost:1313/post/show-last-two-microposts-at-top-of-front-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/show-last-two-microposts-at-top-of-front-page/</guid>
+      <description>Now that microposts are off the front page, and have a page of their own as a new collection, let&amp;rsquo;s see if we can modify the home page, that&amp;rsquo;s index.njk by the way, to show the last micropost across the full-width at the top of the content.&#xA;-/-/-/&#xA;type: micropost&#xA;location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Testing ghost publisher again</title>
+      <link>http://localhost:1313/post/testing-ghost-publisher-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/testing-ghost-publisher-again/</guid>
+      <description>I am back on my iPhone testing the Ghost Publisher app once more. The problem here is that the &amp;ldquo;tags&amp;rdquo; feature doesn&amp;rsquo;t appear to work at all? I could fork the code (https://github.com/willowsokora/Ghost-Publisher) and try to &amp;ldquo;fix&amp;rdquo; it&amp;hellip; nah. Maybe Mackenzie wants to learn some Swift programming? Or, more likely, let&amp;rsquo;s see what she can do with Apple Shortcuts and the Ghost Admin API.&#xA;-/-/-/ location: Toledo, IA</description>
+    </item>
+    <item>
+      <title>Updated-Rootstalk-with-landscape-orientation-message</title>
+      <link>http://localhost:1313/post/updated-rootstalk-with-landscape-orientation-message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/updated-rootstalk-with-landscape-orientation-message/</guid>
+      <description>I pushed some Rootstalk updates into production (https://Rootstalk.Grinnell.edu) this morning and am making note of that here since I don&amp;rsquo;t have this slick micropost capability on my professional blog. 🙃&#xA;-/-/-/&#xA;location: Grinnell, IA</description>
+    </item>
+  </channel>
+</rss>

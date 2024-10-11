@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development, Azure, DigitalOcean, Hugo on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/Development-Azure-DigitalOcean-Hugo/</link>
+    <description>Recent content in Development, Azure, DigitalOcean, Hugo on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/Development-Azure-DigitalOcean-Hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Pagefind Problem?</title>
+      <link>http://localhost:1313/post/a-pagefind-problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/a-pagefind-problem/</guid>
+      <description>Not Just a Hugo Issue Take note of the question mark at the end of the title, otherwise it could be somewhat misleading. This is not really a problem with Hugo, but one with cloud deployment of Hugo static apps, particularly as an Azure Static Web App.&#xA;The Nutshell As you may know from post 143, I have successfully installed and configured Pagefind in Rootstalk, but thus far it only works locally.</description>
+    </item>
+  </channel>
+</rss>

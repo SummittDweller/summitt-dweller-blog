@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micropost, Development, DigitalOcean, Work on Summitt Dweller&#39;s Blog</title>
+    <link>http://localhost:1313/tags/micropost-Development-DigitalOcean-Work/</link>
+    <description>Recent content in Micropost, Development, DigitalOcean, Work on Summitt Dweller&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/micropost-Development-DigitalOcean-Work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>upgrading-matomo-php</title>
+      <link>http://localhost:1313/post/upgrading-matomo-php/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/upgrading-matomo-php/</guid>
+      <description>This afternoon I&amp;rsquo;m adding https://digital.grinnell.edu (site ID is 17) to my own Matomo instance and I&amp;rsquo;m prompted to upgrade PHP on that Matomo droplet (DigitalOcean). I did so quite easily following Upgrade PHP from 7.2 to 7.4 on CentOS 8 and Apache. I&amp;rsquo;ve also updated my Drupal version, and some modules, in https://digital.grinnell.edu along with adding the matomo module, but that module is now reporting:&#xA;The validation of &amp;quot;http://analytics.summittservices.com/matomo.php&amp;quot; failed with error &amp;quot;Error opening socket ssl://analytics.</description>
+    </item>
+  </channel>
+</rss>
