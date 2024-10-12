@@ -1,4 +1,5 @@
+# themes     ...can't ignore this as it keeps Azure builds in the dark! 
+
 .DS_Store
 public
 .ghost-to-md-output/
-themes
