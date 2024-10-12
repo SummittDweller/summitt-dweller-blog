@@ -3,6 +3,7 @@ title: Moving Front Matter to the Rear
 slug: moving-front-matter-to-the-rear
 date: 2023-04-04T18:17:54.000Z
 date_updated: 2023-04-05T13:35:45.000Z
+hero_image: https://images.unsplash.com/photo-1567972787460-5b9f5f23f514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fHJlYXJ8ZW58MHx8fHwxNjgwNjMyMjMx&ixlib=rb-4.0.3&q=80&w=2000
 ---
 
 I've been using an iOS app called *Publisher for Ghost* to craft and post new microposts from my iPhone.  Just one problem so far... I can't seem to successfully edit and save `excerpt` content so my current scheme of populating the `excerpt` with "front matter" isn't working well.  So, it's time to move that front matter out of the `excerpt` and to the end of the content body.

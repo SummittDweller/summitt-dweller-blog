@@ -3,6 +3,7 @@ title: → Home Automation
 slug: --home-automation
 date: 2020-05-09T00:00:00.000Z
 date_updated: 2023-04-05T12:56:28.000Z
+hero_image: https://images.unsplash.com/photo-1611117775350-ac3950990985?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fGF1dG9tYXRpb258ZW58MHx8fHwxNjgwNjk5MjQ0&ixlib=rb-4.0.3&q=80&w=2000
 ---
 
 During the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) I decided, while working endlessly from my home office, to resurect the hanging bird feeder outside my office window.  I like having the birds visit, but I’ve noticed one problem… starlings! They are cranky, bully bastards and chase all the welcome visitors away, if I let them. Well, I don’t intend to let them anymore. 😁 I won’t go into details here but my remedy involves removing the screen from my office window, and occasionally opening the window itself.

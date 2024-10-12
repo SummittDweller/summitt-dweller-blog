@@ -3,6 +3,7 @@ title: Debugging This Blog with VSCode
 slug: debugging-this-blog-with-_vscode_
 date: 2023-04-04T16:31:07.000Z
 date_updated: 2023-04-05T00:28:44.000Z
+hero_image: https://images.unsplash.com/photo-1592609931041-40265b692757?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHZzY29kZXxlbnwwfHx8fDE2ODA2MzI0NjM&ixlib=rb-4.0.3&q=80&w=2000
 ---
 
 I'm making some significant changes to the code behind this blog today.  Specifically, I'm going to move my micropost "front matter" from the `post.excerpt` or `post.custom_excerpt` field to the "body" of the post where it might look like this example (taken from this very post):

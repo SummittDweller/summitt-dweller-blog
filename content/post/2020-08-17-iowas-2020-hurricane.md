@@ -3,6 +3,7 @@ title: Iowa's 2020 Hurricane
 slug: iowas-2020-hurricane
 date: 2020-08-18T00:00:00.000Z
 date_updated: 2023-04-16T19:02:07.000Z
+hero_image: https://summittservices.blob.core.windows.net/summitt-dweller-blog/images/2023/04/Derecho-20-1000px.png
 tags: 
   - Home
   - Weather

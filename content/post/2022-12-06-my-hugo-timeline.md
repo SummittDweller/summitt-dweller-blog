@@ -3,6 +3,7 @@ title: My Hugo Timeline
 slug: my-hugo-timeline
 date: 2022-12-06T18:00:00.000Z
 date_updated: 2023-04-05T13:05:24.000Z
+hero_image:  https://summittservices.blob.core.windows.net/summitt-dweller-blog/images/2023/04/Rootstalk-Timeline.png
 tags: 
   - Hugo
   - Development

@@ -3,6 +3,7 @@ title: My Blog To-Do List
 slug: my-blog-to-do-list
 date: 2023-03-23T02:20:28.000Z
 date_updated: 2023-04-21T01:57:33.000Z
+hero_image: https://summittservices.blob.core.windows.net/summitt-dweller-blog/images/2023/03/jessica-lewis-fJXv46LT7Xk-unsplash.jpg
 tags: 
   - Development
   - Eleventy

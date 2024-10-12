@@ -12,22 +12,13 @@ Geowoodstock 2023 ([GC89GMX](https://coord.info/GC89GMX)) and Kentucky's oldest 
 
 The route and cache count looked something like this:
 
-![Geowoodstock-2023-Caches-Found](__GHOST_URL__/content/images/2023/05/Geowoodstock-2023-Caches-Found.png)
+![Geowoodstock-2023-Caches-Found](images/2023/05/Geowoodstock-2023-Caches-Found.png)
 
 The green lines represent my "outbound" route while the red lines show my "return" route back from [GC39E](https://coord.info/GC39E).  The ordered list of caches and events found is available for download below.
 
-[
+The GPS Maze at the top of the list was not found first, but it's listed that way.
 
-Geowoodstock Caches Found
-
-The GPS Maze at the top of the list was not found first, but it&apos;s listed that way.
-
-Geowoodstock-Caches-Found.pdf
-
-194 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-](__GHOST_URL__/content/files/2023/05/Geowoodstock-Caches-Found.pdf)
+[Geowoodstock-Caches-Found.pdf](https://summittservices.blob.core.windows.net/summitt-dweller-blog/files/2023/05/Geowoodstock-Caches-Found.pdf)
 
 By the numbers I show:
 

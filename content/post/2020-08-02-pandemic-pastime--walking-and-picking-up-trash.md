@@ -3,6 +3,7 @@ title: "Pandemic Pastime: Walking and Picking Up Trash"
 slug: pandemic-pastime--walking-and-picking-up-trash
 date: 2020-08-03T00:00:00.000Z
 date_updated: 2023-04-05T12:58:09.000Z
+hero_image: https://images.unsplash.com/photo-1604761550394-7690adbf0318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM1fHx0cmFzaHxlbnwwfHx8fDE2ODA2OTk0NjM&ixlib=rb-4.0.3&q=80&w=2000
 ---
 
 It’s been far too long since I posted to this blog; I guess I’ve been busy? Nah, not any more than usual, but during the COVID-19 pandemic I have doubled my efforts to get out and walk in the fresh air whenever possible. I’m thankful for my small “scurry” – that’s the term for a collective of squirrels – who not only take walks with me around Cherry Lake, but all around town.

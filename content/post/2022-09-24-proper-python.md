@@ -7,6 +7,7 @@ tags:
   - Development
   - Python
 excerpt: A new Python approach based on my `blog.summittdweller.com` site.
+hero_image: https://images.unsplash.com/photo-1529978515127-dba8c80bbf05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDQ4fHxweXRob258ZW58MHx8fHwxNjgwNzAwNTM2&ixlib=rb-4.0.3&q=80&w=2000
 ---
 
 What follows is the `README.md` file from my *GitHub* repo where [https://blog.summittdweller.com](https://blog.summittdweller.com/) is built. It outlines how to "properly" add Python to a project such that we can create an easily reproducible "virtual environment" without storing the necessary Python libraries in *GitHub*.

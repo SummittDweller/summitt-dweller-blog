@@ -3,9 +3,12 @@ title: Travel...MSP to CDG to OSL to KKN
 slug: travel---msp-to-cdg-to-osl-to-kkn
 date: 2019-06-12T00:00:00.000Z
 date_updated: 2023-04-05T12:53:26.000Z
+hero_image: https://images.unsplash.com/photo-1630414178593-26f610c7ad2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI2fHxOb3J3YXl8ZW58MHx8fHwxNjgwNjk5MTU5&ixlib=rb-4.0.3&q=80&w=2000
 ---
 
-![](https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/Minneapolis-Saint%20Paul%20International%20Airport%20-%20Minneapolis,%20MN,%20June%2011,%202019/IMG_0352.png)This was a very long day in the air, and then we discovered the 'midnight sun'!
+![](https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/Minneapolis-Saint%20Paul%20International%20Airport%20-%20Minneapolis,%20MN,%20June%2011,%202019/IMG_0352.png)  
+
+This was a very long day in the air, and then we discovered the 'midnight sun'!
 
 This post is really part of my [Norway photo blog](http://weblog-sd.docksal/photos/norway-june-2019/norway-june-2019/) which you can find elsewhere on this site.  Note that the photos here are in reverse-chronological order with the exception of one “lead” post that lays out our itinerary.  So, read on…
 

@@ -129,7 +129,7 @@ Following the [Local Development](https://github.com/StaticJsCMS/static-cms-hugo
 
 The demo site is indeed working at `http://localhost:3000/` and a vist to `http://localhost:3000/admin` does indeed open a *StaticCMS* login that's prompting me with the following image.
 
-![Screenshot-2024-01-13-at-11.00.45](__GHOST_URL__/content/images/2024/01/Screenshot-2024-01-13-at-11.00.45.png)
+![Screenshot-2024-01-13-at-11.00.45](images/2024/01/Screenshot-2024-01-13-at-11.00.45.png)
 
 ### Let's Go Local!
 

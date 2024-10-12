@@ -1,7 +1,7 @@
 ---
 title: Garmin GPSMAP 67 Experience
 slug: garmin-gpsmap-67-experience
-date: 1970-01-01T00:00:00.000Z
+date: 2023-10-24T02:12:57.000Z
 date_updated: 2023-10-24T02:12:57.000Z
 draft: true
 ---

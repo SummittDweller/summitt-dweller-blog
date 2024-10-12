@@ -3,6 +3,7 @@ title: This Blog in Eleventy + Ghost
 slug: this-blog-in-eleventy-ghost
 date: 2023-03-20T13:44:12.000Z
 date_updated: 2023-03-22T15:29:48.000Z
+hero_image: https://summittservices.blob.core.windows.net/summitt-dweller-blog/images/2023/03/Screenshot-2023-03-20-at-09.32.12.png
 tags: 
   - Development
   - Eleventy
@@ -66,11 +67,11 @@ Done.  When the `blog-ghost.summittservices.com` instance of Ghost was created 
     
 
 Yup, that works!  I get something that looks like this now:
-![](__GHOST_URL__/content/images/2023/03/Screenshot-2023-03-20-at-08.40.32.png)My new blog connected to `blog-ghost.summittservices.com`.
+![](images/2023/03/Screenshot-2023-03-20-at-08.40.32.png)My new blog connected to `blog-ghost.summittservices.com`.
 Even better, when I save and `Publish` my work on this post, effectively removing its "Draft" status in `blog-ghost.summittservices.com`, I should see an instantaneous update in my `https://localhost:8080` instance of the blog.  Wish me luck...  
 
 Beautimous!  Well, almost.  The change to the site was not "instantaneous", but after a quick `ctrl-c` and a new `yarn start` we have this:
-![](__GHOST_URL__/content/images/2023/03/Screenshot-2023-03-20-at-08.45.11.png)New blog updated with an initial copy of this post.
+![](images/2023/03/Screenshot-2023-03-20-at-08.45.11.png)New blog updated with an initial copy of this post.
 ## Migrating Content
 
 Now that we have a working local site, it's time to copy some content (posts and microposts) that I wish to keep from my old blog at [https://github.com/SummittDweller/blogs-SummittDweller](https://github.com/SummittDweller/blogs-SummittDweller) into `blog-ghost.summittservices.com`.  For now I'm doing that "manually" by opening a new post and copying content from old .md files into them one-at-a-time.  Using that tedious process I managed to copy 8 posts forward into this blog.

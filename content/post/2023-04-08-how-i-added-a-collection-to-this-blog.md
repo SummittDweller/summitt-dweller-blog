@@ -3,6 +3,7 @@ title: How I Added a Collection to This Blog
 slug: how-i-added-a-collection-to-this-blog
 date: 2023-04-08T12:47:15.000Z
 date_updated: 2023-04-13T00:53:35.000Z
+hero_image: https://images.unsplash.com/photo-1591961172040-ee974a422616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwMnx8Y29sbGVjdGlvbnxlbnwwfHx8fDE2ODA5NTc5ODI&ixlib=rb-4.0.3&q=80&w=2000
 tags: 
   - Development
 excerpt: What follows is an excerpt taken directly from this project's `README.md` file.  

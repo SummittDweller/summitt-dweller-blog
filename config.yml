@@ -27,12 +27,13 @@ params:
   author:
     name: Mark McFate
   description: "An old fart's memory dump: Lots of code, some life experiences, and a little humor. No politics!"
-  customDateFormat: 2006-02-01
+  customDateFormat: 2006-01-02
   themeColor: blue
   startPageColumns: true 
   showListsGrouped: true
   showPostSummary: true 
   alwaysExpandMenu: true
+  staticCloudPrefix: https://summittservices.blob.core.windows.net/summitt-dweller-blog
 
 social:
   github: SummittDweller
