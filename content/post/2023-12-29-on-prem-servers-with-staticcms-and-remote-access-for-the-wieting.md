@@ -1,7 +1,7 @@
 ---
 title: On-prem Servers with StaticCMS and Remote Access for the Wieting
 slug: on-prem-servers-with-staticcms-and-remote-access-for-the-wieting
-date_published: 2023-12-29T16:41:14.000Z
+date: 2023-12-29T16:41:14.000Z
 date_updated: 2023-12-29T17:19:09.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: fixing-wieting-guild-pages
 slug: fixing-wieting-guild-pages
-date_published: 2023-06-03T23:20:26.000Z
+date: 2023-06-03T23:20:26.000Z
 date_updated: 2023-06-03T23:37:01.000Z
 tags: micropost, Development, Eleventy
 ---

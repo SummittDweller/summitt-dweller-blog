@@ -1,7 +1,7 @@
 ---
 title: New Announcement Feature
 slug: new-announcement-feature
-date_published: 2020-09-13T00:00:00.000Z
+date: 2020-09-13T00:00:00.000Z
 date_updated: 2023-04-02T03:50:14.000Z
 ---
 

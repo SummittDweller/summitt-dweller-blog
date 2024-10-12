@@ -1,7 +1,7 @@
 ---
 title: Updated-Rootstalk-with-landscape-orientation-message
 slug: updated-rootstalk-with-landscape-orientation-message
-date_published: 2023-04-10T16:59:19.000Z
+date: 2023-04-10T16:59:19.000Z
 date_updated: 2023-04-10T16:59:19.000Z
 tags: micropost, Development
 ---

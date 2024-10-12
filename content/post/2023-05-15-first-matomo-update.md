@@ -1,7 +1,7 @@
 ---
 title: first-matomo-update
 slug: first-matomo-update
-date_published: 2023-05-15T18:33:16.000Z
+date: 2023-05-15T18:33:16.000Z
 date_updated: 2023-05-15T18:33:16.000Z
 tags: micropost, Development
 ---

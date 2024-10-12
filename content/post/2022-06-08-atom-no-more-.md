@@ -1,7 +1,7 @@
 ---
 title: Atom No More?
 slug: atom-no-more-
-date_published: 2022-06-09T00:00:00.000Z
+date: 2022-06-09T00:00:00.000Z
 date_updated: 2023-04-02T03:49:32.000Z
 ---
 

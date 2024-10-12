@@ -1,7 +1,7 @@
 ---
 title: Migrating the Wieting Site in Drupal 8
 slug: migrating-the-wieting-site-in-drupal-8
-date_published: 2020-02-28T00:00:00.000Z
+date: 2020-02-28T00:00:00.000Z
 date_updated: 2023-04-02T03:50:55.000Z
 ---
 

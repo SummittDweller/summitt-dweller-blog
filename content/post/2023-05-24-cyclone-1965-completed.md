@@ -1,7 +1,7 @@
 ---
 title: cyclone-1965-completed
 slug: cyclone-1965-completed
-date_published: 2023-05-24T18:23:56.000Z
+date: 2023-05-24T18:23:56.000Z
 date_updated: 2023-05-24T18:23:56.000Z
 tags: micropost, Work
 ---

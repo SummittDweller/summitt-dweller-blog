@@ -1,7 +1,7 @@
 ---
 title: show-last-two-microposts-at-top-of-front-page
 slug: show-last-two-microposts-at-top-of-front-page
-date_published: 2023-04-03T01:18:50.000Z
+date: 2023-04-03T01:18:50.000Z
 date_updated: 2023-04-05T00:29:25.000Z
 tags: micropost, Development
 ---

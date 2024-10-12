@@ -1,7 +1,7 @@
 ---
 title: Searching for a Search Solution
 slug: glad-i-found-pagefind
-date_published: 2023-04-20T17:02:00.000Z
+date: 2023-04-20T17:02:00.000Z
 date_updated: 2023-04-20T20:41:53.000Z
 tags: Development, DigitalOcean, Eleventy
 ---

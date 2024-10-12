@@ -1,7 +1,7 @@
 ---
 title: "The Derecho: Consolidated Posts and Microposts: August 10 thru September 6, 2020"
 slug: the-derecho--consolidated-posts-and-microposts--august-10-thru-september-6--2020
-date_published: 2022-09-25T00:00:00.000Z
+date: 2022-09-25T00:00:00.000Z
 date_updated: 2023-04-02T03:48:55.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Gating My Content
 slug: gating-my-content
-date_published: 2023-01-30T18:00:00.000Z
+date: 2023-01-30T18:00:00.000Z
 date_updated: 2023-03-21T02:37:52.000Z
 tags: Netlify, Eleventy, Azure, Development
 excerpt: Working through https://www.stackbit.com/blog/gating-content-jamstack to password protect some of the content at https://Wieting.TamaToledo.com is my tech pursuit today.   

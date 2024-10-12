@@ -1,7 +1,7 @@
 ---
 title: first-varsity-soccer-officiating
 slug: first-varsity-soccer-officiating
-date_published: 2023-04-15T02:50:58.000Z
+date: 2023-04-15T02:50:58.000Z
 date_updated: 2023-04-15T02:50:58.000Z
 tags: micropost, Recreation
 ---

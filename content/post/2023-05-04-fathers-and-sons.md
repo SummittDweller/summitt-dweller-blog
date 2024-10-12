@@ -1,7 +1,7 @@
 ---
 title: fathers-and-sons
 slug: fathers-and-sons
-date_published: 2023-05-05T01:00:00.000Z
+date: 2023-05-05T01:00:00.000Z
 date_updated: 2023-05-07T15:34:11.000Z
 tags: micropost, Theatre, Geocaching
 ---

@@ -1,7 +1,7 @@
 ---
 title: Snowpocalypse 2024 - Round 2
 slug: snowpocalypse-2024-round-2
-date_published: 2024-01-13T15:28:12.000Z
+date: 2024-01-13T15:28:12.000Z
 date_updated: 2024-01-13T15:28:12.000Z
 tags: Home, Weather
 ---

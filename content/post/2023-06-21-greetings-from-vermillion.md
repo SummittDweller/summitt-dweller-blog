@@ -1,7 +1,7 @@
 ---
 title: greetings-from-vermillion
 slug: greetings-from-vermillion
-date_published: 2023-06-21T12:44:00.000Z
+date: 2023-06-21T12:44:00.000Z
 date_updated: 2023-06-21T15:45:01.000Z
 tags: micropost, Travel
 ---

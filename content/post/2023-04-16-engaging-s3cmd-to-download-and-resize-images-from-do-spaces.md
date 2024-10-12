@@ -1,7 +1,7 @@
 ---
 title: Engaging `s3cmd` to Download and Resize Images from DO Spaces
 slug: engaging-s3cmd-to-download-and-resize-images-from-do-spaces
-date_published: 2023-04-16T14:57:16.000Z
+date: 2023-04-16T14:57:16.000Z
 date_updated: 2023-04-16T19:38:25.000Z
 tags: Development, DigitalOcean
 ---

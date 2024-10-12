@@ -1,7 +1,7 @@
 ---
 title: streamlit-ghost-azure-resources
 slug: streamlit-ghost-azure-resources
-date_published: 2023-06-01T13:49:18.000Z
+date: 2023-06-01T13:49:18.000Z
 date_updated: 2023-06-05T17:20:28.000Z
 tags: micropost, Development, Ghost, Geocaching, Azure, Streamlit
 ---

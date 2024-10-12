@@ -1,7 +1,7 @@
 ---
 title: fire-alarm-2-am
 slug: fire-alarm-2-am
-date_published: 2023-06-23T12:00:00.000Z
+date: 2023-06-23T12:00:00.000Z
 date_updated: 2023-06-23T13:54:01.000Z
 tags: micropost, Travel
 ---

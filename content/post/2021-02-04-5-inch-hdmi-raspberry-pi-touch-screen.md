@@ -1,7 +1,7 @@
 ---
 title: 5-Inch HDMI Raspberry Pi Touch Screen
 slug: 5-inch-hdmi-raspberry-pi-touch-screen
-date_published: 2021-02-05T00:00:00.000Z
+date: 2021-02-05T00:00:00.000Z
 date_updated: 2023-04-02T03:49:54.000Z
 ---
 

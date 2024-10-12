@@ -1,7 +1,7 @@
 ---
 title: cold-morning-clear-lake
 slug: cold-morning-clear-lake
-date_published: 2023-04-29T12:33:46.000Z
+date: 2023-04-29T12:33:46.000Z
 date_updated: 2023-04-29T12:33:46.000Z
 tags: micropost, Vacation, Geocaching
 ---

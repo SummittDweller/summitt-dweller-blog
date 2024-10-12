@@ -1,7 +1,7 @@
 ---
 title: Westbound to Seattle - Day 2
 slug: westbound-to-seattle---day-2
-date_published: 2022-08-07T00:00:00.000Z
+date: 2022-08-07T00:00:00.000Z
 date_updated: 2023-04-02T03:48:13.000Z
 ---
 

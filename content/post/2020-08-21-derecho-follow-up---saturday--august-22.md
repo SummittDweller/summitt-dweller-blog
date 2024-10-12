@@ -1,7 +1,7 @@
 ---
 title: Derecho Follow-Up - Saturday, August 22
 slug: derecho-follow-up---saturday--august-22
-date_published: 2020-08-22T00:00:00.000Z
+date: 2020-08-22T00:00:00.000Z
 date_updated: 2023-04-02T03:50:25.000Z
 ---
 

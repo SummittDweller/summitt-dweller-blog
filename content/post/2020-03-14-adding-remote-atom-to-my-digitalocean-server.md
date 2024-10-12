@@ -1,7 +1,7 @@
 ---
 title: Adding 'Remote Atom' to My DigitalOcean Server
 slug: adding-remote-atom-to-my-digitalocean-server
-date_published: 2020-03-15T00:00:00.000Z
+date: 2020-03-15T00:00:00.000Z
 date_updated: 2023-04-02T03:50:50.000Z
 ---
 

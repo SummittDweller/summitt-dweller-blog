@@ -1,7 +1,7 @@
 ---
 title: Snowpocalypse 2024?
 slug: snowpocalypse-2024
-date_published: 2024-01-10T00:00:00.000Z
+date: 2024-01-10T00:00:00.000Z
 date_updated: 2024-01-10T15:55:56.000Z
 tags: Home, Weather
 ---

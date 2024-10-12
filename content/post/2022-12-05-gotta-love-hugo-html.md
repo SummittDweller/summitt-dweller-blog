@@ -1,7 +1,7 @@
 ---
 title: gotta-love-hugo.html
 slug: gotta-love-hugo-html
-date_published: 2022-12-05T18:00:00.000Z
+date: 2022-12-05T18:00:00.000Z
 date_updated: 2023-04-05T01:29:44.000Z
 tags: Development, Hugo, micropost
 ---

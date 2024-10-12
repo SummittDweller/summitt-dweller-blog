@@ -1,7 +1,7 @@
 ---
 title: Last of the Clean-up? - Derecho Follow-Up for September 6
 slug: last-of-the-clean-up----derecho-follow-up-for-september-6
-date_published: 2020-09-07T00:27:00.000Z
+date: 2020-09-07T00:27:00.000Z
 date_updated: 2023-04-02T00:29:32.000Z
 ---
 

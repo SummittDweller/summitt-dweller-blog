@@ -1,7 +1,7 @@
 ---
 title: → Testing My ExternalURL Feature
 slug: --testing-my-externalurl-feature
-date_published: 2019-08-11T00:00:00.000Z
+date: 2019-08-11T00:00:00.000Z
 date_updated: 2023-04-02T03:51:01.000Z
 ---
 

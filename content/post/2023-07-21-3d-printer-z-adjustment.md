@@ -1,7 +1,7 @@
 ---
 title: 3d-printer-z-adjustment
 slug: 3d-printer-z-adjustment
-date_published: 2023-07-21T21:51:38.000Z
+date: 2023-07-21T21:51:38.000Z
 date_updated: 2023-07-21T21:51:38.000Z
 tags: micropost, 3D Printing
 ---

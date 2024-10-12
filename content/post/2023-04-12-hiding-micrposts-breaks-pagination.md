@@ -1,7 +1,7 @@
 ---
 title: hiding-microposts-breaks-pagination
 slug: hiding-micrposts-breaks-pagination
-date_published: 2023-04-12T10:23:48.000Z
+date: 2023-04-12T10:23:48.000Z
 date_updated: 2023-04-12T11:21:31.000Z
 tags: micropost, Development
 ---

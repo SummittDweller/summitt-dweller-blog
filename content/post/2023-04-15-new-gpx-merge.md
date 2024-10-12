@@ -1,7 +1,7 @@
 ---
 title: new-gpx-merge
 slug: new-gpx-merge
-date_published: 2023-04-15T13:42:58.000Z
+date: 2023-04-15T13:42:58.000Z
 date_updated: 2023-04-15T15:04:49.000Z
 tags: micropost, Development
 ---

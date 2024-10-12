@@ -1,7 +1,7 @@
 ---
 title: CentOS 7 Remote Using VNC
 slug: centos-7-remote-using-vnc
-date_published: 2021-01-04T00:00:00.000Z
+date: 2021-01-04T00:00:00.000Z
 date_updated: 2023-04-02T03:50:06.000Z
 ---
 

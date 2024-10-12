@@ -1,7 +1,7 @@
 ---
 title: maybe-paperless-ngx
 slug: maybe-paperless-ngx
-date_published: 2023-04-12T03:42:01.000Z
+date: 2023-04-12T03:42:01.000Z
 date_updated: 2023-04-12T03:42:01.000Z
 tags: micropost, Development
 ---

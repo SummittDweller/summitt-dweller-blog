@@ -1,7 +1,7 @@
 ---
 title: NOT Like a Rolling Stone
 slug: not-like-a-rolling-stone
-date_published: 2024-10-11T20:09:55.000Z
+date: 2024-10-11T20:09:55.000Z
 date_updated: 2024-10-11T20:17:41.000Z
 tags: Ghost, Eleventy, Home
 ---

@@ -1,7 +1,7 @@
 ---
 title: Building My First Steamlit App
 slug: building-my-first-steamlit-app
-date_published: 2023-07-24T18:44:51.000Z
+date: 2023-07-24T18:44:51.000Z
 date_updated: 2023-07-25T02:15:43.000Z
 tags: Streamlit, Development
 ---

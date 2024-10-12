@@ -1,7 +1,7 @@
 ---
 title: A Simple Sign-up Form
 slug: a-simple-sign-up-form
-date_published: 2021-03-06T00:00:00.000Z
+date: 2021-03-06T00:00:00.000Z
 date_updated: 2023-04-02T03:49:47.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Testing ghost publisher again
 slug: testing-ghost-publisher-again
-date_published: 2023-04-06T08:35:00.000Z
+date: 2023-04-06T08:35:00.000Z
 date_updated: 2023-04-06T14:49:26.000Z
 tags: micropost, Development
 ---

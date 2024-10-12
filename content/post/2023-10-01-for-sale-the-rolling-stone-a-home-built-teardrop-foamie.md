@@ -1,7 +1,7 @@
 ---
 title: "For Sale: The Rolling Stone, a Home-Built Teardrop Foamie"
 slug: for-sale-the-rolling-stone-a-home-built-teardrop-foamie
-date_published: 2023-10-01T15:00:39.000Z
+date: 2023-10-01T15:00:39.000Z
 date_updated: 2023-11-20T18:55:56.000Z
 tags: for_sale, Recreation
 draft: true

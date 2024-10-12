@@ -1,7 +1,7 @@
 ---
 title: pca-weekend
 slug: pca-weekend
-date_published: 2023-04-28T18:31:00.000Z
+date: 2023-04-28T18:31:00.000Z
 date_updated: 2023-04-29T02:18:39.000Z
 tags: micropost, Geocaching, Recreation, Vacation
 ---

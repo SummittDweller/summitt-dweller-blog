@@ -1,7 +1,7 @@
 ---
 title: adding-a-ghost-micropost-collection
 slug: adding-a-ghost-micropost-collection
-date_published: 2023-04-02T14:33:58.000Z
+date: 2023-04-02T14:33:58.000Z
 date_updated: 2023-04-05T00:29:46.000Z
 tags: Development, micropost
 ---

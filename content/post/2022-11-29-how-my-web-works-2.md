@@ -1,7 +1,7 @@
 ---
 title: How MY Web Works
 slug: how-my-web-works-2
-date_published: 2022-11-30T00:00:00.000Z
+date: 2022-11-30T00:00:00.000Z
 date_updated: 2023-04-02T03:48:47.000Z
 ---
 

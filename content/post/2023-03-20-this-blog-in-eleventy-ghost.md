@@ -1,7 +1,7 @@
 ---
 title: This Blog in Eleventy + Ghost
 slug: this-blog-in-eleventy-ghost
-date_published: 2023-03-20T13:44:12.000Z
+date: 2023-03-20T13:44:12.000Z
 date_updated: 2023-03-22T15:29:48.000Z
 tags: Development, Eleventy, Ghost, DigitalOcean
 excerpt: Mackenzie's moving her portfolio page into an Eleventy (11ty) on frontend with content managed in Ghost on the backend.  I like that combination very much so to help support her move I'm doing the same. 

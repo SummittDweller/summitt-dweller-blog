@@ -1,7 +1,7 @@
 ---
 title: Eastbound from Seattle - Day 1
 slug: eastbound-from-seattle---day-1
-date_published: 2022-08-07T00:00:00.000Z
+date: 2022-08-07T00:00:00.000Z
 date_updated: 2023-04-02T03:49:26.000Z
 ---
 

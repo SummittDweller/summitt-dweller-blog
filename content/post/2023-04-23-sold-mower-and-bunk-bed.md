@@ -1,7 +1,7 @@
 ---
 title: sold-mower-and-bunk-bed
 slug: sold-mower-and-bunk-bed
-date_published: 2023-04-23T20:23:43.000Z
+date: 2023-04-23T20:23:43.000Z
 date_updated: 2023-04-23T20:23:43.000Z
 tags: micropost, Home
 ---

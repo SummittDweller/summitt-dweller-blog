@@ -1,7 +1,7 @@
 ---
 title: fixed-missing-individual-microposts
 slug: fixed-missing-individual-microposts
-date_published: 2023-04-14T00:46:00.000Z
+date: 2023-04-14T00:46:00.000Z
 date_updated: 2023-04-14T01:45:06.000Z
 tags: micropost, Development
 ---

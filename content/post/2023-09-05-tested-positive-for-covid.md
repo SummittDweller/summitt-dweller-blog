@@ -1,7 +1,7 @@
 ---
 title: Tested Positive for COVID
 slug: tested-positive-for-covid
-date_published: 2023-09-05T13:47:00.000Z
+date: 2023-09-05T13:47:00.000Z
 date_updated: 2023-10-01T13:49:47.000Z
 tags: micropost, Home
 ---

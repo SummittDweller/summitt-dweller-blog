@@ -1,7 +1,7 @@
 ---
 title: My Blog To-Do List
 slug: my-blog-to-do-list
-date_published: 2023-03-23T02:20:28.000Z
+date: 2023-03-23T02:20:28.000Z
 date_updated: 2023-04-21T01:57:33.000Z
 tags: Development, Eleventy, Ghost
 excerpt: Witness the birth of a new blog! Actually, a new version of a very old blog. There's still a lot of work to do.So, here's my "to-do" list, as it pertains to this blog, along with possible sources of guidance and inspriration.

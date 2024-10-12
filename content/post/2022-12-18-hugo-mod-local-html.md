@@ -1,7 +1,7 @@
 ---
 title: hugo-mod-local.html
 slug: hugo-mod-local-html
-date_published: 2022-12-18T18:00:00.000Z
+date: 2022-12-18T18:00:00.000Z
 date_updated: 2023-04-05T01:29:15.000Z
 tags: Development, Hugo, micropost
 ---

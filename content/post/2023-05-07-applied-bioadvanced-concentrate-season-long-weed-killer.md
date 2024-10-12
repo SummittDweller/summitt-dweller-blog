@@ -1,7 +1,7 @@
 ---
 title: applied-BioAdvanced-Concentrate-Season-Long-Weed-Killer
 slug: applied-bioadvanced-concentrate-season-long-weed-killer
-date_published: 2023-05-07T20:12:00.000Z
+date: 2023-05-07T20:12:00.000Z
 date_updated: 2023-05-08T20:16:58.000Z
 tags: micropost, Home
 ---

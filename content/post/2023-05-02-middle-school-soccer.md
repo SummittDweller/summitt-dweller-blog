@@ -1,7 +1,7 @@
 ---
 title: middle-school-soccer-dual
 slug: middle-school-soccer
-date_published: 2023-05-02T11:49:00.000Z
+date: 2023-05-02T11:49:00.000Z
 date_updated: 2023-05-02T13:50:12.000Z
 tags: micropost, Recreation
 ---

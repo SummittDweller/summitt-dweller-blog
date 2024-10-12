@@ -1,7 +1,7 @@
 ---
 title: → Home Automation
 slug: --home-automation
-date_published: 2020-05-09T00:00:00.000Z
+date: 2020-05-09T00:00:00.000Z
 date_updated: 2023-04-05T12:56:28.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: lawn-is-looking-better
 slug: lawn-is-looking-better
-date_published: 2023-05-08T23:52:00.000Z
+date: 2023-05-08T23:52:00.000Z
 date_updated: 2023-05-09T15:54:33.000Z
 tags: micropost, Home
 ---

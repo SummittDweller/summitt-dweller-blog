@@ -1,7 +1,7 @@
 ---
 title: My Hugo Timeline
 slug: my-hugo-timeline
-date_published: 2022-12-06T18:00:00.000Z
+date: 2022-12-06T18:00:00.000Z
 date_updated: 2023-04-05T13:05:24.000Z
 tags: Hugo, Development, DigitalOcean
 excerpt: I've successfully added the code to drive a new `/timeline` page as part of this blog, but I did so "locally", and now I'd like to repeat the process but using the https://github.com/SummittDweller/hugo-timeline module per https://gohugo.io/hugo-modules/.

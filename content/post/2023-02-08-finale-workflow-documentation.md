@@ -1,7 +1,7 @@
 ---
 title: Finale Workflow Documentation
 slug: finale-workflow-documentation
-date_published: 2023-02-08T18:00:00.000Z
+date: 2023-02-08T18:00:00.000Z
 date_updated: 2023-03-20T22:18:07.000Z
 tags: Organization
 excerpt: Christine's Finale workflow captured using my new documentation approach

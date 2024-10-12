@@ -1,7 +1,7 @@
 ---
 title: A Pagefind Problem?
 slug: a-pagefind-problem
-date_published: 2023-05-10T14:33:09.000Z
+date: 2023-05-10T14:33:09.000Z
 date_updated: 2023-05-19T21:05:02.000Z
 tags: Development, Azure, DigitalOcean, Hugo
 ---

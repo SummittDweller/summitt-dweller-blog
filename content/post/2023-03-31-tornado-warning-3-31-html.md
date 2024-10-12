@@ -1,7 +1,7 @@
 ---
 title: tornado-warning-3-31.html
 slug: tornado-warning-3-31-html
-date_published: 2023-03-31T16:56:00.000Z
+date: 2023-03-31T16:56:00.000Z
 date_updated: 2023-04-05T02:55:05.000Z
 tags: Weather, micropost
 ---

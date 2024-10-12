@@ -1,7 +1,7 @@
 ---
 title: One of Many Challenges
 slug: one-of-many-challenges
-date_published: 2021-02-21T01:55:00.000Z
+date: 2021-02-21T01:55:00.000Z
 date_updated: 2023-04-02T00:59:03.000Z
 ---
 

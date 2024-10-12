@@ -1,7 +1,7 @@
 ---
 title: Built by Webhook + Password Protection
 slug: build-per-webhook-password-protection
-date_published: 2023-03-24T03:32:33.000Z
+date: 2023-03-24T03:32:33.000Z
 date_updated: 2023-03-24T03:44:16.000Z
 tags: Development, DigitalOcean
 excerpt: My `https://blog.SummittDweller.com/rebuild.html -> DigitalOcean` trigger and webhook should do the job nicely since I'll be able to trigger it even from my iPhone when needed.

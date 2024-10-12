@@ -1,7 +1,7 @@
 ---
 title: upgrading-matomo-php
 slug: upgrading-matomo-php
-date_published: 2023-06-12T19:30:18.000Z
+date: 2023-06-12T19:30:18.000Z
 date_updated: 2023-06-12T19:56:08.000Z
 tags: micropost, Development, DigitalOcean, Work
 ---

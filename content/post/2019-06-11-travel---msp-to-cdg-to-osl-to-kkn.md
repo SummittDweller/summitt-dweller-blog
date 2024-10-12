@@ -1,7 +1,7 @@
 ---
 title: Travel...MSP to CDG to OSL to KKN
 slug: travel---msp-to-cdg-to-osl-to-kkn
-date_published: 2019-06-12T00:00:00.000Z
+date: 2019-06-12T00:00:00.000Z
 date_updated: 2023-04-05T12:53:26.000Z
 ---
 

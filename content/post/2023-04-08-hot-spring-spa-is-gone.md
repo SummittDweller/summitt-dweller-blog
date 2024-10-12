@@ -1,7 +1,7 @@
 ---
 title: Hot Spring Spa is Gone
 slug: hot-spring-spa-is-gone
-date_published: 2023-04-09T01:35:00.000Z
+date: 2023-04-09T01:35:00.000Z
 date_updated: 2023-04-10T01:36:38.000Z
 tags: micropost, Home
 ---

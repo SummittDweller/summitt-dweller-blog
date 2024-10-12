@@ -1,7 +1,7 @@
 ---
 title: Planting Sempervivum tectorum (and More)
 slug: planting-hens-and-chicks-and-more
-date_published: 2023-06-06T17:14:02.000Z
+date: 2023-06-06T17:14:02.000Z
 date_updated: 2023-06-06T17:14:02.000Z
 tags: Home
 ---

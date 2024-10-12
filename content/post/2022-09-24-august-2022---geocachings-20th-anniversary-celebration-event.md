@@ -1,7 +1,7 @@
 ---
 title: August 2022 - Geocaching's 20th Anniversary Celebration Event
 slug: august-2022---geocachings-20th-anniversary-celebration-event
-date_published: 2022-09-25T00:00:00.000Z
+date: 2022-09-25T00:00:00.000Z
 date_updated: 2023-04-02T03:49:02.000Z
 ---
 

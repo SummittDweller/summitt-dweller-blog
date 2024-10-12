@@ -1,7 +1,7 @@
 ---
 title: camping-at-fishermans-corner
 slug: camping-at-fishermans-corner
-date_published: 2023-06-10T11:38:36.000Z
+date: 2023-06-10T11:38:36.000Z
 date_updated: 2023-06-10T12:21:23.000Z
 tags: Geocaching, micropost, Vacation
 ---

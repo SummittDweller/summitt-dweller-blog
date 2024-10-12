@@ -1,7 +1,7 @@
 ---
 title: Moving Front Matter to the Rear
 slug: moving-front-matter-to-the-rear
-date_published: 2023-04-04T18:17:54.000Z
+date: 2023-04-04T18:17:54.000Z
 date_updated: 2023-04-05T13:35:45.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Pandemic Pastime: Walking and Picking Up Trash"
 slug: pandemic-pastime--walking-and-picking-up-trash
-date_published: 2020-08-03T00:00:00.000Z
+date: 2020-08-03T00:00:00.000Z
 date_updated: 2023-04-05T12:58:09.000Z
 ---
 

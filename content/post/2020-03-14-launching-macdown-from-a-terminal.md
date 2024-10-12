@@ -1,7 +1,7 @@
 ---
 title: Launching MacDown from a Terminal
 slug: launching-macdown-from-a-terminal
-date_published: 2020-03-15T00:00:00.000Z
+date: 2020-03-15T00:00:00.000Z
 date_updated: 2023-04-02T03:50:44.000Z
 ---
 

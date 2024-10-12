@@ -1,7 +1,7 @@
 ---
 title: adding-fontawesome-to-wieting-site.html
 slug: adding-fontawesome-to-wieting-site-html
-date_published: 2023-03-07T18:00:00.000Z
+date: 2023-03-07T18:00:00.000Z
 date_updated: 2023-04-05T03:25:29.000Z
 tags: Development, Wieting Theatre, micropost
 ---

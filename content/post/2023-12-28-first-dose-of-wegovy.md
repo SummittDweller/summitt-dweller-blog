@@ -1,7 +1,7 @@
 ---
 title: First Dose of Wegovy
 slug: first-dose-of-wegovy
-date_published: 2023-12-29T02:05:25.000Z
+date: 2023-12-29T02:05:25.000Z
 date_updated: 2023-12-29T14:11:21.000Z
 tags: micropost, Home, Health
 ---

@@ -1,7 +1,7 @@
 ---
 title: survived-first-soccer-officiating
 slug: survived-first-soccer-officiating
-date_published: 2023-04-11T00:36:00.000Z
+date: 2023-04-11T00:36:00.000Z
 date_updated: 2023-04-11T02:47:40.000Z
 tags: micropost, Recreation
 ---

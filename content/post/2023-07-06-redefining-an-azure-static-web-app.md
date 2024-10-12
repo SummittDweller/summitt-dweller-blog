@@ -1,7 +1,7 @@
 ---
 title: Redefining an Azure Static Web App
 slug: redefining-an-azure-static-web-app
-date_published: 2023-07-06T19:11:12.000Z
+date: 2023-07-06T19:11:12.000Z
 date_updated: 2023-07-06T19:11:12.000Z
 ---
 

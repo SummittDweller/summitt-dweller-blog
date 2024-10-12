@@ -1,7 +1,7 @@
 ---
 title: Time for a New Static CMS Approach
 slug: time-for-a-new-static-cms-approach
-date_published: 2023-12-23T12:04:41.000Z
+date: 2023-12-23T12:04:41.000Z
 date_updated: 2023-12-23T12:04:41.000Z
 tags: micropost, Development, Wieting Theatre
 ---

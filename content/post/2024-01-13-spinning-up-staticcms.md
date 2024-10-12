@@ -1,7 +1,7 @@
 ---
 title: Spinning Up StaticCMS
 slug: spinning-up-staticcms
-date_published: 2024-01-13T15:40:23.000Z
+date: 2024-01-13T15:40:23.000Z
 date_updated: 2024-01-14T03:53:56.000Z
 tags: StaticCMS, Development, Wieting Theatre
 ---

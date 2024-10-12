@@ -1,7 +1,7 @@
 ---
 title: implementing-pagefind-here
 slug: implementing-pagefind-here
-date_published: 2023-04-19T05:38:32.000Z
+date: 2023-04-19T05:38:32.000Z
 date_updated: 2023-04-20T15:00:56.000Z
 tags: micropost, Development
 ---

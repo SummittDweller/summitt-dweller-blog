@@ -1,7 +1,7 @@
 ---
 title: My MQTT Weekend
 slug: my-mqtt-weekend
-date_published: 2021-01-31T00:00:00.000Z
+date: 2021-01-31T00:00:00.000Z
 date_updated: 2023-04-02T03:50:00.000Z
 ---
 

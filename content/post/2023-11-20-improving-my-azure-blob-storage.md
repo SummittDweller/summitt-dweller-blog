@@ -1,7 +1,7 @@
 ---
 title: Improving My Azure Blob Storage
 slug: improving-my-azure-blob-storage
-date_published: 2023-11-20T19:00:04.000Z
+date: 2023-11-20T19:00:04.000Z
 date_updated: 2023-12-23T12:06:05.000Z
 tags: micropost, Work, Development
 ---

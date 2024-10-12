@@ -1,7 +1,7 @@
 ---
 title: Tama-Toledo Parks - Derecho Follow-Up for August 24
 slug: tama-toledo-parks---derecho-follow-up-for-august-24
-date_published: 2020-08-24T00:00:00.000Z
+date: 2020-08-24T00:00:00.000Z
 date_updated: 2023-04-02T03:50:19.000Z
 ---
 

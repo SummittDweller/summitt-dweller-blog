@@ -1,7 +1,7 @@
 ---
 title: Debugging This Blog with VSCode
 slug: debugging-this-blog-with-_vscode_
-date_published: 2023-04-04T16:31:07.000Z
+date: 2023-04-04T16:31:07.000Z
 date_updated: 2023-04-05T00:28:44.000Z
 ---
 

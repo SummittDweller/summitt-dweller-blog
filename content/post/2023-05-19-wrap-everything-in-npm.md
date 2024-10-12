@@ -1,7 +1,7 @@
 ---
 title: Wrap EVERYTHING in NPM!
 slug: wrap-everything-in-npm
-date_published: 2023-05-19T22:27:00.000Z
+date: 2023-05-19T22:27:00.000Z
 date_updated: 2023-07-18T21:22:37.000Z
 tags: Azure, Development, DigitalOcean, Work
 ---

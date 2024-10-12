@@ -1,7 +1,7 @@
 ---
 title: early-start-fixed-small-micropost-display
 slug: early-start-fixed-small-micropost-display
-date_published: 2023-04-18T11:28:00.000Z
+date: 2023-04-18T11:28:00.000Z
 date_updated: 2023-04-18T13:29:13.000Z
 tags: micropost, Development
 ---

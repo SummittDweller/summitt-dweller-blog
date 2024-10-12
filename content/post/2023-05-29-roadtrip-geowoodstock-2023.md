@@ -1,7 +1,7 @@
 ---
 title: "Roadtrip: Geowoodstock 2023"
 slug: roadtrip-geowoodstock-2023
-date_published: 2023-05-29T22:32:00.000Z
+date: 2023-05-29T22:32:00.000Z
 date_updated: 2023-06-01T02:54:01.000Z
 tags: Geocaching, Vacation
 ---

@@ -1,7 +1,7 @@
 ---
 title: elementary-school-weed-control
 slug: elementary-school-weed-control
-date_published: 2023-05-31T02:10:06.000Z
+date: 2023-05-31T02:10:06.000Z
 date_updated: 2023-05-31T02:10:06.000Z
 tags: Home, micropost
 ---
