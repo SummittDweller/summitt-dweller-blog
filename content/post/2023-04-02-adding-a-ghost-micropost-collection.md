@@ -3,7 +3,9 @@ title: adding-a-ghost-micropost-collection
 slug: adding-a-ghost-micropost-collection
 date: 2023-04-02T14:33:58.000Z
 date_updated: 2023-04-05T00:29:46.000Z
-tags: Development, micropost
+tags: 
+  - Development
+  - micropost
 ---
 
 This morning's Ghost/11ty adventure will hopefully find me adding a new collection to both ends of this blog.  See [Building content collections](https://ghost.org/tutorials/content-collections/).

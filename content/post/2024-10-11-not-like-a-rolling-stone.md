@@ -3,7 +3,10 @@ title: NOT Like a Rolling Stone
 slug: not-like-a-rolling-stone
 date: 2024-10-11T20:09:55.000Z
 date_updated: 2024-10-11T20:17:41.000Z
-tags: Ghost, Eleventy, Home
+tags: 
+  - Ghost
+  - Eleventy
+  - Home
 ---
 
 Where has the last year gone?  While life (metaphorically the stream in the hero image) rolls on, this blog (any of the moss covered rocks in the image) has not. 

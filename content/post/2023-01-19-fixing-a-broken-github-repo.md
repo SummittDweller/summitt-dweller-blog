@@ -3,7 +3,9 @@ title: Fixing a Broken GitHub Repo
 slug: fixing-a-broken-github-repo
 date: 2023-01-19T18:00:00.000Z
 date_updated: 2023-04-05T13:12:00.000Z
-tags: Development, Git
+tags: 
+  - Development
+  - Git
 excerpt: 
 
 ---

@@ -3,7 +3,10 @@ title: streamlit-apps-fork
 slug: streamlit-apps-fork
 date: 2023-06-05T12:31:46.000Z
 date_updated: 2023-06-05T17:06:21.000Z
-tags: micropost, Streamlit, Development
+tags: 
+  - micropost
+  - Streamlit
+  - Development
 ---
 
 This morning I found some new *Streamlit* resources from developer **Jcharis**, and I forked his [Jcharis/Streamlit_DataScience_Apps](https://github.com/Jcharis/Streamlit_DataScience_Apps) to make my own copy at [SummittDweller/Streamlit_DataScience_Apps](https://github.com/SummittDweller/Streamlit_DataScience_Apps)

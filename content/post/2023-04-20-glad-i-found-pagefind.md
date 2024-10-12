@@ -3,7 +3,10 @@ title: Searching for a Search Solution
 slug: glad-i-found-pagefind
 date: 2023-04-20T17:02:00.000Z
 date_updated: 2023-04-20T20:41:53.000Z
-tags: Development, DigitalOcean, Eleventy
+tags: 
+  - Development
+  - DigitalOcean
+  - Eleventy
 ---
 
 A few months ago I sat in on a [CFE.dev webinar](https://cfe.dev/sessions/static-search-with-pagefind/) and I was really impressed with what I saw.  I made a note to come back and look closer at [Pagefind](https://pagefind.app/), and my new blog -- this blog that you're presumably reading right now -- really needed a search feature, so the "Search" box on this page (I hope it's there) is the outcome.

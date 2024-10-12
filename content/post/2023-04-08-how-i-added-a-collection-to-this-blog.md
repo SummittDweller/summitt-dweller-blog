@@ -3,7 +3,8 @@ title: How I Added a Collection to This Blog
 slug: how-i-added-a-collection-to-this-blog
 date: 2023-04-08T12:47:15.000Z
 date_updated: 2023-04-13T00:53:35.000Z
-tags: Development
+tags: 
+  - Development
 excerpt: What follows is an excerpt taken directly from this project's `README.md` file.  
 ---
 

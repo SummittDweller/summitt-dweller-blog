@@ -3,7 +3,9 @@ title: Building My First Steamlit App
 slug: building-my-first-steamlit-app
 date: 2023-07-24T18:44:51.000Z
 date_updated: 2023-07-25T02:15:43.000Z
-tags: Streamlit, Development
+tags: 
+  - Streamlit
+  - Development
 ---
 
 I've been wanting to give [Streamlit](https://streamlit.io/) a try for some time now.  Recently, I found [Streamlit DataScience Apps](https://github.com/Jcharis/Streamlit_DataScience_Apps), a *GitHub* repo full of *Streamlit* apps, written by [Jcharis](https://github.com/Jcharis/Streamlit_DataScience_Apps/commits?author=Jcharis).  In particular, I thought I would take the [Job_Search_App_with_Streamlit_Forms_n_GithubAPI](https://github.com/Jcharis/Streamlit_DataScience_Apps/tree/master/Job_Search_App_with_Streamlit_Forms_n_GithubAPI) code for a spin.

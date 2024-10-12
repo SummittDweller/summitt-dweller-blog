@@ -3,7 +3,9 @@ title: applied-BioAdvanced-Concentrate-Season-Long-Weed-Killer
 slug: applied-bioadvanced-concentrate-season-long-weed-killer
 date: 2023-05-07T20:12:00.000Z
 date_updated: 2023-05-08T20:16:58.000Z
-tags: micropost, Home
+tags: 
+  - micropost
+  - Home
 ---
 
 Today I applied one bottle (29 oz.) of  BioAdvanced™ Concentrate Season Long Weed Killer to my entire lawn in 9 applications using my Ryobi 1-gallon chemical sprayer.  Mix was 3.5oz per tank with each application covering about 500 square feet.

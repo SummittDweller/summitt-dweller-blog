@@ -3,7 +3,12 @@ title: wrapping-hugo-in-npm
 slug: wrapping-hugo-in-npm
 date: 2023-05-09T23:13:09.000Z
 date_updated: 2023-05-10T14:56:55.000Z
-tags: micropost, Development, Azure, DigitalOcean, Hugo
+tags: 
+  - micropost
+  - Development
+  - Azure
+  - DigitalOcean
+  - Hugo
 ---
 
 I ran into a big road block with implementation of Pagefind in *Rootstalk* today... everything works fine in development, but I can't easily deploy to *Azure* because there's no way to "inject" Pagefind into an Azure Static Web App build before the "public" content gets deployed.  I can generate the Pagefind parts after deployment, but that does me no good.

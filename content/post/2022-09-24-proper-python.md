@@ -3,7 +3,9 @@ title: Proper Python
 slug: proper-python
 date: 2022-09-24T17:00:00.000Z
 date_updated: 2023-07-24T18:35:05.000Z
-tags: Development, Python
+tags: 
+  - Development
+  - Python
 excerpt: A new Python approach based on my `blog.summittdweller.com` site.
 ---
 

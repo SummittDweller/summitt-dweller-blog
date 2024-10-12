@@ -3,7 +3,11 @@ title: Wrap EVERYTHING in NPM!
 slug: wrap-everything-in-npm
 date: 2023-05-19T22:27:00.000Z
 date_updated: 2023-07-18T21:22:37.000Z
-tags: Azure, Development, DigitalOcean, Work
+tags: 
+  - Azure
+  - Development
+  - DigitalOcean
+  - Work
 ---
 
 So, `node` and `npm` seem to be all the rage these days, and perhaps for good reason.  I recently fell in love with [Eleventy/11ty](https://www.11ty.dev) over [Hugo](https://gohugo.io) because it's Javascript, not Go, and it's elegantly simple with tons of flexibility.  I recently tried to add *Pagefind* search to a Hugo static web site (see [https://static.grinnell.edu/dlad-blog/posts/143-significant-rootstalk-retooling/](https://static.grinnell.edu/dlad-blog/posts/143-significant-rootstalk-retooling/)).  If *Rootstalk*, an Azure Static Web App was framed in `node.js`, as both *Eleventy* and *Pagefind* are, there would be no problem.  The Azure scripts used to deploy those frameworks are far more customizable than Hugo, and there's documentation to prove it.

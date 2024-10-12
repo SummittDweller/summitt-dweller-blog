@@ -3,7 +3,9 @@ title: a-close-call-indeed
 slug: a-close-call-indeed
 date: 2023-06-24T14:00:00.000Z
 date_updated: 2023-06-24T14:48:41.000Z
-tags: micropost, Travel
+tags: 
+  - micropost
+  - Travel
 ---
 
 Driving home from a few days at Univ. of South Dakota in Vermillion last evening and stopped at Justin's house in M-town to meet his parents and grandmother, plus Deb & Doug.  We left there about 8:30 or so and I took the old Lincoln Highway into town to avoid deer along the road on the shorter rural route.

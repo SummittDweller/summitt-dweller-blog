@@ -3,7 +3,9 @@ title: Snowpocalypse 2024?
 slug: snowpocalypse-2024
 date: 2024-01-10T00:00:00.000Z
 date_updated: 2024-01-10T15:55:56.000Z
-tags: Home, Weather
+tags: 
+  - Home
+  - Weather
 ---
 
 Maybe not as bad as predicted (at least per some predictions) but it was enough wet snow for me.  Took almost an hour to clear using my EGO cordless snow-thrower (love it) and there's more to be done before Mackenzie and I can leave for work in the morning.  

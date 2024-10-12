@@ -3,7 +3,9 @@ title: Engaging `s3cmd` to Download and Resize Images from DO Spaces
 slug: engaging-s3cmd-to-download-and-resize-images-from-do-spaces
 date: 2023-04-16T14:57:16.000Z
 date_updated: 2023-04-16T19:38:25.000Z
-tags: Development, DigitalOcean
+tags: 
+    - Development
+    - DigitalOcean
 ---
 
 Earlier in this blog there's a `micropost` that lays out the problem at hand.  In a nutshell, most of the photos I saved in *DigitalOcean Spaces* are too big to be effective in this blog.  They suck up lots of time and bandwidth every time this blog gets rebuilt, and then they are rendered at a fraction of their original size. This is exceptionall wasteful and unnecessary.

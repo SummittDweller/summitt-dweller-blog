@@ -3,7 +3,9 @@ title: cyclone-1965-completed
 slug: cyclone-1965-completed
 date: 2023-05-24T18:23:56.000Z
 date_updated: 2023-05-24T18:23:56.000Z
-tags: micropost, Work
+tags: 
+  - micropost
+  - Work
 ---
 
 This morning I was dealing with the 1965 edition of the Grinnell College yearbook, *Cyclone 1965*, in Digital.Grinnell.  That's a monster of a yearbook, 278 pages and a .pdf that's almost 1.4 GB in size.

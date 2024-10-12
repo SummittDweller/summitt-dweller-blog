@@ -3,7 +3,9 @@ title: reduce-spaces-stored-image-sizes
 slug: reduce-azure-stored-image-sizes
 date: 2023-04-16T13:28:11.000Z
 date_updated: 2023-04-16T19:40:37.000Z
-tags: micropost, Development
+tags: 
+  - micropost
+  - Development
 ---
 
 Ok, I get the sense that constantly pulling enormous digital images from *DigitalOcean Spaces* to rebuild this blog is unnecessarily chewing up lots of bandwidth.  Today I'd like to begin fixing that by creating a utility, probably in *Python*, to grab all those images one-by-one, make a smaller copy of each, and put those copies back into a `web-ready` subdirectory in *Spaces*, or something like that.

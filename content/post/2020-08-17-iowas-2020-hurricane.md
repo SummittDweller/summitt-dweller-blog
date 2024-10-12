@@ -3,7 +3,9 @@ title: Iowa's 2020 Hurricane
 slug: iowas-2020-hurricane
 date: 2020-08-18T00:00:00.000Z
 date_updated: 2023-04-16T19:02:07.000Z
-tags: Home, Weather
+tags: 
+  - Home
+  - Weather
 ---
 
 It’s been far too long, again, since I posted to this blog, but this time I have a legitimate excuse: we’ve been without power or internet, or much of anything, since about 11:45 AM on Monday, August 10, 2020.  So we have now been more than 10.5 days without power. I’m only able to post this because of a portable generator I bought on August 12 (that was an adventure in itself) and the wireless hotspot that my phone has provided almost 24/7 ever since the storm hit.

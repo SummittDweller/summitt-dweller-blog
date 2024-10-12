@@ -1,28 +1,119 @@
-baseURL: http://example.org/
-disablePathToLower: true
-languageCode: en-us
+baseURL: 'https://blog.summittdweller.com'
 title: Summitt Dweller's Blog
+languageCode: en
+DefaultContentLanguage: en
+enableInlineShortcodes: true
+ignoreErrors:
+  - error-remote-getjson
+footnoteReturnLinkContents: ^
+copyright: Mark McFate
+enableRobotsTXT: true
+pygmentsCodeFences: true
 canonifyurls: true
-paginate: 3
-theme: "silhouette-hugo"
+paginate: 6
+theme: bootstrap-bp-hugo-theme
 
-pygmentsUseClasses: true
+sitemap:
+  changefreq: weekly
+  priority: 0.5
 
-# disqusShortname = ""
-# googleAnalytics = ""
+permalinks:
+  posts: '/:year/:month/:slug/'
+  post: '/:year/:month/:slug/'
+  pages: '/:slug/'
+  page: '/:slug/'
 
 params:
-  author: Mark McFate
-  introDescription: "An old fart's memory dump: Lots of code, some life experiences, and a little humor. No politics!"
-  contentSharing: "I'm happy for you to share content on this site, but please provide attribution."
+  author:
+    name: Mark McFate
+  description: "An old fart's memory dump: Lots of code, some life experiences, and a little humor. No politics!"
+  customDateFormat: 2006-02-01
+  themeColor: blue
+  startPageColumns: true 
+  showListsGrouped: true
+  showPostSummary: true 
+  alwaysExpandMenu: true
 
 social:
-  instagram: realmattbutton
-  linkedin: matt-button-2225537
-  twitter: realmattbutton
+  github: SummittDweller
+  gitlab: ''
+  stackoverflow: ''
+  bitbucket: ''
+  jsfiddle: ''
+  codepen: ''
+  deviantart: ''
+  flickr: ''
+  behance: ''
+  dribbble: ''
+  wordpress: ''
+  medium: ''
+  linkedin: ''
+  linkedin_company: ''
+  foursquare: ''
+  xing: ''
+  slideshare: ''
+  facebook: ''
+  googleplus: ''
+  reddit: ''
+  quora: ''
+  youtube: ''
+  vimeo: ''
+  whatsapp: ''
+  instagram: ''
+  tumblr: ''
+  twitter: ''
+  skype: ''
+  snapchat: ''
+  pinterest: ''
+  telegram: ''
+  discord: ''
+  email: ''
 
-markup:
-  goldmark: 
-    renderer:
-      unsafe: true
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+      pre: <i class='fas fa-heart'></i>
+  footer:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+      pre: <i class='fas fa-address-card'></i>
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+      pre: <i class='fas fa-folder'></i>
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+      pre: <i class='fas fa-tags'></i>
 
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

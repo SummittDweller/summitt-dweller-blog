@@ -3,7 +3,11 @@ title: upgrading-matomo-php
 slug: upgrading-matomo-php
 date: 2023-06-12T19:30:18.000Z
 date_updated: 2023-06-12T19:56:08.000Z
-tags: micropost, Development, DigitalOcean, Work
+tags: 
+  - micropost
+  - Development
+  - DigitalOcean
+  - Work
 ---
 
 This afternoon I'm adding `https://digital.grinnell.edu` (site ID is 17) to my own Matomo instance and I'm prompted to upgrade PHP on that Matomo droplet (DigitalOcean).  I did so quite easily following [Upgrade PHP from 7.2 to 7.4 on CentOS 8 and Apache](https://www.digitalocean.com/community/questions/upgrade-php-from-7-2-to-7-4-on-centos-8-and-apache).  I've also updated my Drupal version, and some modules, in [https://digital.grinnell.edu](https://digital.grinnell.edu) along with adding the `matomo` module, but that module is now reporting:

@@ -3,7 +3,9 @@ title: new-gpx-merge
 slug: new-gpx-merge
 date: 2023-04-15T13:42:58.000Z
 date_updated: 2023-04-15T15:04:49.000Z
-tags: micropost, Development
+tags: 
+  - micropost
+  - Development
 ---
 
 Last evening I rode my bike to/from soccer so this morning I wanted to "merge" those two track logs before publishing them to [https://hikes.SummittDweller.com](https://hikes.SummittDweller.com).  So, I found and forked [https://github.com/locked-fg/gpxmerger](https://github.com/locked-fg/gpxmerger) to [https://github.com/SummittDweller/gpxmerger](https://github.com/SummittDweller/gpxmerger) and after tweaking my own code IT WORKS!

@@ -3,7 +3,10 @@ title: fixing-wieting-guild-pages
 slug: fixing-wieting-guild-pages
 date: 2023-06-03T23:20:26.000Z
 date_updated: 2023-06-03T23:37:01.000Z
-tags: micropost, Development, Eleventy
+tags: 
+  - micropost
+  - Development
+  - Eleventy
 ---
 
 Just the other day I got an updated copy of the Wieting Theatre's volunteer roster and assignment schedule.  As I'm trying to post them to the [theatre's management website](https://wieting-guild.tamatoledo.com) (it's password protected) I keep having issues with `npm` and dependencies that won't compile.  The fix, thus far has included a local command stream like this:
