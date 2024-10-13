@@ -1,0 +1,8 @@
+/* Overwrite in your /assets/css/custom.css file */
+
+.card {
+--bs-border-width: 3px;
+--bs-border-color: #0d3d6d;
+--bs-border-color-translucent: rgba(0, 0, 0, 0.75);
+--bs-border-radius: 0.5rem;
+}
