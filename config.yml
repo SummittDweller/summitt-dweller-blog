@@ -70,10 +70,10 @@ social:
   discord: ''
   email: ''
 
-# module:
-#   imports:
-#   - path: github.com/hugomods/icons/vendors/bootstrap
-#   - path: github.com/hugomods/icons/vendors/font-awesome
+module:
+  imports:
+    - path: github.com/hugomods/icons/vendors/bootstrap
+    - path: github.com/hugomods/icons/vendors/font-awesome
 
 menu:
   main:
@@ -86,7 +86,7 @@ menu:
       name: Microposts
       url: /micropost/
       weight: 20
-      pre: <i class='bi bi-card-heading'></i>
+      pre: <i class='bi bi-journal'></i>
   footer:
     - identifier: about
       name: About
