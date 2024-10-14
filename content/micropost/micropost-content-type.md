@@ -6,4 +6,4 @@ type: micropost
 location: Toledo, IA
 ---
 
-Using guidance found in [Custom content types in Hugo](https://michaelheap.com/custom-content-types-in-hugo/) to advance my `micropost` collection.  Might need to re-visit https://workingcopyapp.com/ and check it out again.  
+Using guidance found in [Custom content types in Hugo](https://michaelheap.com/custom-content-types-in-hugo/) to advance my `micropost` collection.  Might need to re-visit https://workingcopyapp.com/ and check it out again.  Better yet, check this out: https://cothinkers.substack.com/p/guide-publishing-to-hugo-jekyll-remotely-via-ios !
