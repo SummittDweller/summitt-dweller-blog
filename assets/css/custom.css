@@ -6,3 +6,7 @@
 --bs-border-color-translucent: rgba(0, 0, 0, 0.75);
 --bs-border-radius: 0.5rem;
 }
+
+.nav-item {
+  margin-top: 7px;
+}

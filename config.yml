@@ -77,16 +77,17 @@ social:
 
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 10
-      pre: <i class='fas fa-heart'></i>
     - identifier: microposts
       name: Microposts
       url: /micropost/
-      weight: 20
-      pre: <i class='bi bi-journal'></i>
+      weight: 10
+      pre: <i class='bi bi-stickies-fill'></i>
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 90
+      pre: <i class='fas fa-heart'></i>
+
   footer:
     - identifier: about
       name: About
