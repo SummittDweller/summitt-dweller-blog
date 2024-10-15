@@ -18,6 +18,8 @@ sitemap:
   priority: 0.5
 
 permalinks:
+  microposts: '/:year/:month/:slug/'
+  micropost: '/:year/:month/:slug/'
   posts: '/:year/:month/:slug/'
   post: '/:year/:month/:slug/'
   pages: '/:slug/'
@@ -79,7 +81,7 @@ menu:
   main:
     - identifier: microposts
       name: Microposts
-      url: /micropost/
+      url: /microposts/
       weight: 10
       pre: <i class='bi bi-stickies-fill'></i>
     - identifier: about
