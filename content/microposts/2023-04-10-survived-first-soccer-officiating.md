@@ -1,5 +1,5 @@
 ---
-title: survived-first-soccer-officiating
+title: Survived First Soccer Officiating
 slug: survived-first-soccer-officiating
 date: 2023-04-11T00:36:00.000Z
 date_updated: 2023-04-11T02:47:40.000Z

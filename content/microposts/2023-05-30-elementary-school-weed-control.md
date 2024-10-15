@@ -1,5 +1,5 @@
 ---
-title: elementary-school-weed-control
+title: Elementary School Weed Control
 slug: elementary-school-weed-control
 date: 2023-05-31T02:10:06.000Z
 date_updated: 2023-05-31T02:10:06.000Z

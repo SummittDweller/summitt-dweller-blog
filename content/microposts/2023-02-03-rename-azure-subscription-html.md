@@ -1,6 +1,6 @@
 ---
-title: rename-azure-subscription.html
-slug: rename-azure-subscription-html
+title: Rename Azure Subscription
+slug: rename-azure-subscription
 date: 2023-02-03T18:00:00.000Z
 date_updated: 2023-04-05T03:29:22.000Z
 tags: 

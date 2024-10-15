@@ -1,5 +1,5 @@
 ---
-title: owensboro-ky
+title: Owensboro, KY
 slug: owensboro-ky
 date: 2023-05-26T05:04:43.000Z
 date_updated: 2023-05-26T05:06:43.000Z

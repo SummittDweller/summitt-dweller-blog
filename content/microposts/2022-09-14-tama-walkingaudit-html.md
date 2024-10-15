@@ -1,6 +1,6 @@
 ---
-title: tama-walkingaudit.html
-slug: tama-walkingaudit-html
+title: Tama Walking Audit
+slug: tama-walking-audit
 date: 2022-09-14T19:00:00.000Z
 date_updated: 2023-04-05T01:34:58.000Z
 tags: 

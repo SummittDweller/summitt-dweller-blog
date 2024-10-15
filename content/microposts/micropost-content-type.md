@@ -1,8 +1,7 @@
 ---
-title: 'Micropost Content Type'
+title: Micropost Content Type
 date: 2024-10-13T11:17:56-05:00
 draft: false
-# type: micropost
 location: Toledo, IA
 ---
 

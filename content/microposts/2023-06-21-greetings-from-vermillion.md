@@ -1,5 +1,5 @@
 ---
-title: greetings-from-vermillion
+title: Greetings from Vermillion
 slug: greetings-from-vermillion
 date: 2023-06-21T12:44:00.000Z
 date_updated: 2023-06-21T15:45:01.000Z

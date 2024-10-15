@@ -1,5 +1,5 @@
 ---
-title: 3d-printer-z-adjustment
+title: 3d-Printer Z-Adjustment
 slug: 3d-printer-z-adjustment
 date: 2023-07-21T21:51:38.000Z
 date_updated: 2023-07-21T21:51:38.000Z

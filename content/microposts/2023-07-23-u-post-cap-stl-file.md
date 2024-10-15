@@ -1,5 +1,5 @@
 ---
-title: u-post-cap-stl-file
+title: U-Post Cap STL File
 slug: u-post-cap-stl-file
 date: 2023-07-23T19:45:05.000Z
 date_updated: 2023-07-23T19:45:05.000Z

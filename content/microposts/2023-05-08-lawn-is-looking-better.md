@@ -1,5 +1,5 @@
 ---
-title: lawn-is-looking-better
+title: Lawn is Looking Better
 slug: lawn-is-looking-better
 date: 2023-05-08T23:52:00.000Z
 date_updated: 2023-05-09T15:54:33.000Z

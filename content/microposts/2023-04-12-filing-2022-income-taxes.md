@@ -1,5 +1,5 @@
 ---
-title: filing-2022-income-taxes
+title: Filing 2022 Income Taxes
 slug: filing-2022-income-taxes
 date: 2023-04-13T00:56:49.000Z
 date_updated: 2023-04-13T00:56:49.000Z

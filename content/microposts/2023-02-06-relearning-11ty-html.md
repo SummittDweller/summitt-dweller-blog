@@ -1,6 +1,6 @@
 ---
-title: relearning-11ty.html
-slug: relearning-11ty-html
+title: Relearning 11ty
+slug: relearning-11ty
 date: 2023-02-06T18:00:00.000Z
 date_updated: 2023-04-05T03:28:28.000Z
 tags: 

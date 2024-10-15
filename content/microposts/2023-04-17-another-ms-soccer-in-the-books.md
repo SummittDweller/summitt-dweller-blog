@@ -1,5 +1,5 @@
 ---
-title: another-ms-soccer-in-the-books
+title: Another MS Soccer in the Books
 slug: another-ms-soccer-in-the-books
 date: 2023-04-18T01:13:00.000Z
 date_updated: 2023-04-18T03:14:04.000Z

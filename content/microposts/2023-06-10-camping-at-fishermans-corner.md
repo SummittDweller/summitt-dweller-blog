@@ -1,5 +1,5 @@
 ---
-title: camping-at-fishermans-corner
+title: Camping at Fishermans Corner
 slug: camping-at-fishermans-corner
 date: 2023-06-10T11:38:36.000Z
 date_updated: 2023-06-10T12:21:23.000Z

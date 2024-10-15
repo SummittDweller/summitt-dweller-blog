@@ -1,5 +1,5 @@
 ---
-title: streamlit-ghost-azure-resources
+title: Streamlit Ghost Azure Resources
 slug: streamlit-ghost-azure-resources
 date: 2023-06-01T13:49:18.000Z
 date_updated: 2023-06-05T17:20:28.000Z

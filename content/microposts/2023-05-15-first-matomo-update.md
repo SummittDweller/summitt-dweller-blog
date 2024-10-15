@@ -1,5 +1,5 @@
 ---
-title: first-matomo-update
+title: First Matomo Update
 slug: first-matomo-update
 date: 2023-05-15T18:33:16.000Z
 date_updated: 2023-05-15T18:33:16.000Z

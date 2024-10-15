@@ -1,6 +1,6 @@
 ---
-title: hugo-mod-local.html
-slug: hugo-mod-local-html
+title: Hugo Mod Local
+slug: hugo-mod-local
 date: 2022-12-18T18:00:00.000Z
 date_updated: 2023-04-05T01:29:15.000Z
 tags: 

@@ -1,5 +1,5 @@
 ---
-title: sold-mower-and-bunk-bed
+title: Sold Mower and Bunk Bed
 slug: sold-mower-and-bunk-bed
 date: 2023-04-23T20:23:43.000Z
 date_updated: 2023-04-23T20:23:43.000Z

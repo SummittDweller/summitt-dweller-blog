@@ -1,5 +1,5 @@
 ---
-title: cyclone-1965-completed
+title: Cyclone 1965 Completed
 slug: cyclone-1965-completed
 date: 2023-05-24T18:23:56.000Z
 date_updated: 2023-05-24T18:23:56.000Z

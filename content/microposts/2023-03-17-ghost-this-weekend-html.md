@@ -1,6 +1,6 @@
 ---
-title: ghost-this-weekend.html
-slug: ghost-this-weekend-html
+title: Ghost This Weekend
+slug: ghost-this-weekend
 date: 2023-03-17T19:00:00.000Z
 date_updated: 2023-04-05T03:23:25.000Z
 tags: 

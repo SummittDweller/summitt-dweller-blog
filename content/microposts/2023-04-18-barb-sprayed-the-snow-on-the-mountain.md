@@ -1,5 +1,5 @@
 ---
-title: barb-sprayed-the-snow-on-the-mountain
+title: Barb Sprayed the Snow-on-the-Mountain
 slug: barb-sprayed-the-snow-on-the-mountain
 date: 2023-04-18T19:09:00.000Z
 date_updated: 2023-04-19T00:10:04.000Z

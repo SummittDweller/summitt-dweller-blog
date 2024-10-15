@@ -1,6 +1,6 @@
 ---
-title: turned-hot-water-recirc-off.html
-slug: turned-hot-water-recirc-off-html
+title: Turned Hot Water Recirc Off
+slug: turned-hot-water-recirc-off
 date: 2023-03-11T18:00:00.000Z
 date_updated: 2023-04-05T03:24:42.000Z
 tags: 

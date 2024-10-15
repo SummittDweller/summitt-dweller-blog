@@ -1,6 +1,6 @@
 ---
-title: rawlins.html
-slug: rawlins-html
+title: Rawlins
+slug: rawlins
 date: 2022-08-21T19:00:00.000Z
 date_updated: 2023-04-05T01:39:02.000Z
 tags: 

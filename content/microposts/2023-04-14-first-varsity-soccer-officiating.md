@@ -1,5 +1,5 @@
 ---
-title: first-varsity-soccer-officiating
+title: First Varsity Soccer Officiating
 slug: first-varsity-soccer-officiating
 date: 2023-04-15T02:50:58.000Z
 date_updated: 2023-04-15T02:50:58.000Z

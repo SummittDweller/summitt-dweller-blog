@@ -1,5 +1,5 @@
 ---
-title: Updated-Rootstalk-with-landscape-orientation-message
+title: Updated Rootstalk with Landscape Orientation Message
 slug: updated-rootstalk-with-landscape-orientation-message
 date: 2023-04-10T16:59:19.000Z
 date_updated: 2023-04-10T16:59:19.000Z

@@ -1,5 +1,5 @@
 ---
-title: maybe-paperless-ngx
+title: Maybe Paperless NGX
 slug: maybe-paperless-ngx
 date: 2023-04-12T03:42:01.000Z
 date_updated: 2023-04-12T03:42:01.000Z

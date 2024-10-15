@@ -17,14 +17,14 @@
                 </div>
             </div>
         </div>
-        {{ range .Pages.GroupByDate "2006" }} 
+        {{ range .Pages.GroupByDate "2006-January" }} 
             <div class="mb-3">    
                 <div class="card">
                     <div class="card-body">  
                         <h2 id="{{ .Key | urlize }}">{{ .Key }}</h2>
                         <ul>
                             {{ range .Pages }}
-                                <li>{{ .PublishDate.Format $customDateFormat }} - <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a></li>
+                                <li>{{ .PublishDate.Format $customDateFormat }} - <a href="{{ .RelPermalink }}" title="{{ .Title | title }}">{{ .Title | title }}</a></li>
                             {{ end}}
                         </ul>
                     </div>

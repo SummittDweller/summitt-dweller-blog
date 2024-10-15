@@ -1,5 +1,5 @@
 ---
-title: matomo-notes
+title: Matomo Notes
 slug: matomo-notes
 date: 2023-03-17T13:16:00.000Z
 date_updated: 2023-04-05T03:23:57.000Z
