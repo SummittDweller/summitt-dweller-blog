@@ -8,7 +8,3 @@ There's a published OneTab of related resources at https://www.one-tab.com/page/
 This project now uses my fork (https://github.com/SummittDweller/bootstrap-bp-hugo-theme) of the `bootstrap-bp-hugo-theme` as a submodule.
 
 For Bootstrap icons (loaded in `head_custom.html`) see: https://icons.getbootstrap.com/
-
-
-
-
