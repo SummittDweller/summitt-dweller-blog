@@ -2,7 +2,7 @@
 title: '{{ .Name | title }}'
 date: '{{ .Date }}'
 draft: false
-type: micropost
+# type: micropost
 location: Toledo, IA
 tags:
   - micropost
