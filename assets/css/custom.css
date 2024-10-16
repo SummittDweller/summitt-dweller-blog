@@ -7,6 +7,14 @@
 --bs-border-radius: 0.5rem;
 }
 
+.card.microposts {
+  --bs-border-width: 3px;
+  --bs-border-color: #6d0d40;
+  --bs-border-color-translucent: rgba(0, 0, 0, 0.75);
+  --bs-border-radius: 0.5rem;
+  background-color: rgb(212, 230, 220);
+  }
+  
 .nav-item {
   margin-top: 7px;
 }
