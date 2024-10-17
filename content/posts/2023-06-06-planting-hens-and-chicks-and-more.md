@@ -5,6 +5,7 @@ date: 2023-06-06T17:14:02.000Z
 date_updated: 2023-06-06T17:14:02.000Z
 tags: 
   - Home
+hero_image: https://images.unsplash.com/photo-1642900282496-0ffb92c20adb?crop=entropy&cs=tinysrgb&fit=maxfm=jpgixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGhlbnMlMjBhbmQlMjBjaGlja3N8ZW58MHx8fHwxNjg2MDcxNjI4fDA&ixlib=rb-4.0.3&q=80&w=2000
 ---
 
 This morning I started an experiment... clipping leaves ("lobes" might be a better term for these things) from a healthy, indoor *Sempervivum tectorum*.  What's that, you ask? The common name is **Hens and Chicks**.

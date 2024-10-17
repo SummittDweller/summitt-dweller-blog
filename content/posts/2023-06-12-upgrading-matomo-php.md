@@ -1,5 +1,5 @@
 ---
-title: upgrading-matomo-php
+title: Upgrading Matomo PHP
 slug: upgrading-matomo-php
 date: 2023-06-12T19:30:18.000Z
 date_updated: 2023-06-12T19:56:08.000Z

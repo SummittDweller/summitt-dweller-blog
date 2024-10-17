@@ -1,5 +1,5 @@
 ---
-title: fixing-wieting-guild-pages
+title: Fixing Wieting Guild Pages
 slug: fixing-wieting-guild-pages
 date: 2023-06-03T23:20:26.000Z
 date_updated: 2023-06-03T23:37:01.000Z

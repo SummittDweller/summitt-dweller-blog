@@ -84,6 +84,11 @@ menu:
       url: /microposts/
       weight: 10
       pre: <i class='bi bi-stickies-fill'></i>
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 80
+      pre: <i class='bi bi-floppy-fill'></i>
     - identifier: about
       name: About
       url: /about/

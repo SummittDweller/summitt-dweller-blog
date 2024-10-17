@@ -7,6 +7,7 @@ tags:
   - Development
   - DigitalOcean
   - Eleventy
+hero_image: https://images.unsplash.com/photo-1496449903678-68ddcb189a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIzfHxzZWFyY2h8ZW58MHx8fHwxNjgyMDAyODkw&ixlib=rb-4.0.3&q=80&w=2000
 ---
 
 A few months ago I sat in on a [CFE.dev webinar](https://cfe.dev/sessions/static-search-with-pagefind/) and I was really impressed with what I saw.  I made a note to come back and look closer at [Pagefind](https://pagefind.app/), and my new blog -- this blog that you're presumably reading right now -- really needed a search feature, so the "Search" box on this page (I hope it's there) is the outcome.
