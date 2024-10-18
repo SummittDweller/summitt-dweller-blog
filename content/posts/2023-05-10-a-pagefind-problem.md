@@ -8,6 +8,7 @@ tags:
     - Azure
     - DigitalOcean
     - Hugo
+hero_image: /images/Z3Cf5V-photo-1561470508-fd4df1ed90b2.jpg
 ---
 
 # Not Just a Hugo Issue

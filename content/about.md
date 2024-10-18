@@ -4,6 +4,7 @@ description: ""
 draft: false
 slug: about
 title: About This Site
+type: page
 ---
 
 Summitt Dweller's Blog is an independent publication launched in March 2023 by Mark McFate, aka "Summitt Dweller".  It replaces an old [Hugo](https://gohugo.io) site which replaced an old [Drupal](https://drupal.org) site many years ago.

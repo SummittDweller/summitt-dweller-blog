@@ -6,6 +6,7 @@ date_updated: 2023-06-01T02:54:01.000Z
 tags: 
   - Geocaching
   - Vacation
+hero_image: /images/Z1AvGXL-photo-1593115590389-076721aa1607.jpg
 ---
 
 Geowoodstock 2023 ([GC89GMX](https://coord.info/GC89GMX)) and Kentucky's oldest surviving geocache ([GC39E](https://coord.info/GC39E)) were the intended destinations of another epic roadtrip with *gossamar* on May 25-28, 2023.

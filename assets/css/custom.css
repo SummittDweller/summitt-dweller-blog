@@ -17,3 +17,7 @@
 .nav-item {
   margin-top: 7px;
 }
+
+.navbar-light .row {
+  color: black;
+}

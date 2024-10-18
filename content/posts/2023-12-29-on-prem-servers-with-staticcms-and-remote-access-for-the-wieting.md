@@ -3,6 +3,7 @@ title: On-prem Servers with StaticCMS and Remote Access for the Wieting
 slug: on-prem-servers-with-staticcms-and-remote-access-for-the-wieting
 date: 2023-12-29T16:41:14.000Z
 date_updated: 2023-12-29T17:19:09.000Z
+hero_image: images/ZWItS8-photo-1515413741792-b5900ade941f.jpg
 ---
 
 It's no secret that I love building ridiculously inexpensive but secure and reliable static web sites.  Unfortunately, adding and maintaining content can be a pain.  *I'd rather write code than content! *  So, I also want to pawn that content responsibility off on others, but that means teaching them to use [VSCode](https://code.visualstudio.com/) – my means of editing static content – or providing a [CMS (content management system)](https://en.wikipedia.org/wiki/Content_management_system) they can work with.  There's no such thing as a static CMS so now I need some "dynamic" components.  Unfortunately my "dynamic" CMS requires user authentication because *we want SOMEONE editing our content, not EVERYONE! *That always seems to be pricey, at least by comparison to our $5/month static website.    

@@ -7,6 +7,7 @@ tags:
   - StaticCMS
   - Development
   - Wieting Theatre
+hero_image: /images/1wuviz-Screenshot-2024-01-13-at-09.34.52.png
 ---
 
 Today is Saturday, January 13, 2024, and I won't be able to watch the KC Chief's wildcard playoff game vs. the Miami Dolphins tonight because it is streaming ONLY on Peacock, and I refuse to pay them for the "privilege" to watch it live.  So, I'm going to do something productive instead.  Let's see if I can spin up an instance of [StaticCMS](https://www.staticcms.org/) to provide an OPEN CMS for the content editor(s) behind the [Wieting Theatre website](https://Wieting.TamaToledo.com).  

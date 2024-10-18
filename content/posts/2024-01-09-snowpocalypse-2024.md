@@ -6,6 +6,7 @@ date_updated: 2024-01-10T15:55:56.000Z
 tags: 
   - Home
   - Weather
+hero_image: /images/dVYv4-IMG_2071.png
 ---
 
 Maybe not as bad as predicted (at least per some predictions) but it was enough wet snow for me.  Took almost an hour to clear using my EGO cordless snow-thrower (love it) and there's more to be done before Mackenzie and I can leave for work in the morning.  
