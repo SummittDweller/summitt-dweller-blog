@@ -88,7 +88,7 @@ menu:
       name: Archives
       url: /archives/
       weight: 80
-      pre: <i class='bi bi-floppy-fill'></i>
+      pre: <i class="bi bi-floppy-fill"></i>
     - identifier: about
       name: About
       url: /about/
